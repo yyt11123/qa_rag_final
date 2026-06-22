@@ -1,0 +1,66 @@
+[
+  {
+    "unit_id": "151663164423967018-10",
+    "session_id": "151663164423967018",
+    "question_raw": "我看到‘地区1’里包括加拿大、澳洲这些国家，但香港客户也适用这个分类，那在实际核保过程中，香港居民和这些国家的居民会有哪些不同的处理方式吗？",
+    "source_message_ids": [
+      "158654915646901324"
+    ],
+    "is_substantive": true,
+    "context_company": null,
+    "context_product": "安達傳承守創儲蓄保障計劃V-豐足",
+    "is_context_inferred": true,
+    "inference_basis": "产品名从 unit 151663164423967018-9 继承",
+    "_session_company_names": [
+      "苏黎世人寿",
+      "安达人寿",
+      "友邦保险",
+      "保诚保险",
+      "安盛保险",
+      "宏利保险",
+      "忠意保险",
+      "太平人寿",
+      "万通保险",
+      "周大福人寿",
+      "永明金融",
+      "富卫人寿",
+      "立桥人寿",
+      "中国人寿",
+      "太平洋人寿",
+      "中银人寿",
+      "微蓝保险",
+      "保柏(亚洲)",
+      "信诺保险"
+    ],
+    "_session_product_names": [],
+    "_assistant_product": null,
+    "_assistant_has_response": true,
+    "_assistant_content_preview": "这是个很棒的问题！虽然香港居民在安达的核保体系中被归入“地区1”，和加拿大、澳洲等国家同属一个风险组别，但在实际操作中，确实会因居住地、身份文件、医疗记录来源等因素产生一些差异处理：\n\n1. **医疗资料获取方式不同**  \n   香港居民通常使用本地公立医院或私家诊所的体检报告，系统对接更顺畅；而加拿大或澳洲客户可能需要提供海外体检机构报告，有时需经认证翻译或额外核保确认。\n\n2. **财务证明",
+    "_turn_index": 10
+  },
+  {
+    "unit_id": "155154322315842613-3",
+    "session_id": "155154322315842613",
+    "question_raw": "那我现在再问一次，哪些保司的储蓄产品有保单暂托的功能",
+    "source_message_ids": [
+      "155154951679546421"
+    ],
+    "is_substantive": true,
+    "context_company": null,
+    "context_product": "永誉传承储蓄计划",
+    "is_context_inferred": true,
+    "inference_basis": "产品名从 unit 155154322315842613-2 继承",
+    "_session_company_names": [
+      "永明金融",
+      "富卫人寿",
+      "周大福人寿"
+    ],
+    "_session_product_names": [
+      "飞扬·盛世储蓄寿险计划"
+    ],
+    "_assistant_product": null,
+    "_assistant_has_response": true,
+    "_assistant_content_preview": "截至目前，提供“保单暂托”功能的保险公司及其储蓄产品包括：\n\n🔸 **友邦保险** — 环宇盈活储蓄保险计划  \n🔸 **安盛保险** — 盛利Ⅱ至尊储蓄计划  \n🔸 **宏利保险** — 宏挚传承保障计划  \n🔸 **太平人寿** — 颐年乐享储蓄保险计划(尊享版)  \n🔸 **周大福人寿** — 飞扬·盛世储蓄寿险计划  \n🔸 **中国人寿** — 晋裕传承储蓄保险计划(至尊版)  \n🔸 **",
+    "_turn_index": 3
+  }
+]

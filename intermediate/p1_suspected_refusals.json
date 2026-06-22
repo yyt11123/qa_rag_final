@@ -1,0 +1,2424 @@
+[
+  {
+    "unit_id": "144424636929577070-1",
+    "session_id": "144424636929577070",
+    "question_raw": "ping",
+    "source_message_ids": [
+      "144424642751271022"
+    ],
+    "is_substantive": true,
+    "context_company": null,
+    "context_product": null,
+    "is_context_inferred": false,
+    "inference_basis": null,
+    "_session_company_names": [],
+    "_session_product_names": [],
+    "_assistant_product": null,
+    "_assistant_has_response": true,
+    "_assistant_content_preview": "ping～收到！👋  \n小飞飞在线待命，随时为你解答保险相关问题哦～ 🌟",
+    "_turn_index": 1,
+    "sample_type": "correct_refusal",
+    "is_evaluable": true,
+    "classification_reason": "疑似拒答(待P4核验): 无文档引用(refs=False,rel_docs=False), 无具体事实, 非greeting模板",
+    "classification_confidence": "medium",
+    "_refusal_signals": {
+      "no_docs": true,
+      "no_facts": true,
+      "is_greeting": false
+    }
+  },
+  {
+    "unit_id": "145040763409961102-1",
+    "session_id": "145040763409961102",
+    "question_raw": "what is the Preliminary Assessment process for YF Life？",
+    "source_message_ids": [
+      "145040826559402126"
+    ],
+    "is_substantive": true,
+    "context_company": "万通保险",
+    "context_product": "富饶千秋储蓄计划",
+    "is_context_inferred": false,
+    "inference_basis": null,
+    "_session_company_names": [
+      "万通保险"
+    ],
+    "_session_product_names": [],
+    "_assistant_product": "富饶千秋储蓄计划",
+    "_assistant_has_response": true,
+    "_assistant_content_preview": "哎呀，这个问题我暂时没办法准确回答你哦～ 我刚帮你翻了好多资料，还特别筛选了万通保险相关的流程说明，但都没找到“初步评估”这块的具体内容 😅  \n要不你再多告诉我一点细节？比如是哪个产品或哪种客户的场景？我继续帮你找找看～ 或者我先记下来，马上让团队补上这部分资料！💪",
+    "_turn_index": 1,
+    "sample_type": "correct_refusal",
+    "is_evaluable": true,
+    "classification_reason": "疑似拒答(待P4核验): 无文档引用(refs=False,rel_docs=False), 无具体事实, 非greeting模板",
+    "classification_confidence": "medium",
+    "_refusal_signals": {
+      "no_docs": true,
+      "no_facts": true,
+      "is_greeting": false
+    }
+  },
+  {
+    "unit_id": "145286951019253917-1",
+    "session_id": "145286951019253917",
+    "question_raw": "如何证明是专业投资者",
+    "source_message_ids": [
+      "145286957327487133"
+    ],
+    "is_substantive": true,
+    "context_company": null,
+    "context_product": null,
+    "is_context_inferred": false,
+    "inference_basis": null,
+    "_session_company_names": [],
+    "_session_product_names": [],
+    "_assistant_product": null,
+    "_assistant_has_response": true,
+    "_assistant_content_preview": "这个问题我可能不太擅长 🙁 我主要帮大家解答保险相关的问题～  \n如果你是想了解保险销售中的专业资质（比如保险代理人的持牌要求、继续教育、专业能力证明等），我很乐意为你详细说明哦！😊  \n需要我帮你梳理一下吗？🧐",
+    "_turn_index": 1,
+    "sample_type": "correct_refusal",
+    "is_evaluable": true,
+    "classification_reason": "疑似拒答(待P4核验): 无文档引用(refs=False,rel_docs=False), 无具体事实, 非greeting模板",
+    "classification_confidence": "medium",
+    "_refusal_signals": {
+      "no_docs": true,
+      "no_facts": true,
+      "is_greeting": false
+    }
+  },
+  {
+    "unit_id": "145625877340786850-1",
+    "session_id": "145625877340786850",
+    "question_raw": "保诚信守明天的保单贷款利息",
+    "source_message_ids": [
+      "145625938007199906"
+    ],
+    "is_substantive": true,
+    "context_company": "保诚保险",
+    "context_product": null,
+    "is_context_inferred": false,
+    "inference_basis": null,
+    "_session_company_names": [
+      "保诚保险"
+    ],
+    "_session_product_names": [],
+    "_assistant_product": null,
+    "_assistant_has_response": true,
+    "_assistant_content_preview": "哎呀，我暂时没办法准确回答哦～但我刚刚帮你翻了好多保诚“信守明天”相关的资料，还特别筛选了贷款利率这块，可惜还没找到明确信息🥺  \n要不你再多告诉我一点细节？我继续帮你找找看～或者我把这个问题记下来，马上告诉团队尽快补上资料好吗？💪",
+    "_turn_index": 1,
+    "sample_type": "correct_refusal",
+    "is_evaluable": true,
+    "classification_reason": "疑似拒答(待P4核验): 无文档引用(refs=False,rel_docs=False), 无具体事实, 非greeting模板",
+    "classification_confidence": "medium",
+    "_refusal_signals": {
+      "no_docs": true,
+      "no_facts": true,
+      "is_greeting": false
+    }
+  },
+  {
+    "unit_id": "145886207421747365-1",
+    "session_id": "145886207421747365",
+    "question_raw": "想问下我们可以签出口信用保险吗？是否可以简单介绍下，客户是做化肥海外贸易的，针对一些应收账款，如果海外客户迟迟不付账，是不是可以通过银行先支付。",
+    "source_message_ids": [
+      "145886289529442469"
+    ],
+    "is_substantive": true,
+    "context_company": null,
+    "context_product": "环宇盈活储蓄保险计划",
+    "is_context_inferred": false,
+    "inference_basis": null,
+    "_session_company_names": [],
+    "_session_product_names": [],
+    "_assistant_product": "环宇盈活储蓄保险计划",
+    "_assistant_has_response": true,
+    "_assistant_content_preview": "哎呀，这个问题我暂时没办法准确回答你哦～但我刚刚真的帮你翻了好多资料，查了出口信用保险、化肥外贸、还有银行能不能先垫款这些关键词，可惜还没找到特别匹配的内容 😅  \n要不你再多告诉我一点细节？我继续帮你找找看～或者我先把这个问题记下来，马上让团队补上相关资料好吗？💪",
+    "_turn_index": 1,
+    "sample_type": "correct_refusal",
+    "is_evaluable": true,
+    "classification_reason": "疑似拒答(待P4核验): 无文档引用(refs=False,rel_docs=False), 无具体事实, 非greeting模板",
+    "classification_confidence": "medium",
+    "_refusal_signals": {
+      "no_docs": true,
+      "no_facts": true,
+      "is_greeting": false
+    }
+  },
+  {
+    "unit_id": "146292981861748912-1",
+    "session_id": "146292981861748912",
+    "question_raw": "保诚家居保如果门锁坏了报销吗",
+    "source_message_ids": [
+      "146293037293670576"
+    ],
+    "is_substantive": true,
+    "context_company": "保诚保险",
+    "context_product": "高端医疗自由行计划",
+    "is_context_inferred": false,
+    "inference_basis": null,
+    "_session_company_names": [
+      "保诚保险"
+    ],
+    "_session_product_names": [],
+    "_assistant_product": "高端医疗自由行计划",
+    "_assistant_has_response": true,
+    "_assistant_content_preview": "哎呀，这个问题我暂时没办法准确回答你哦～  \n我刚刚翻了好多保诚的资料，也试着用不同说法找“门锁坏了能不能报”，但都没找到明确说明呢😢  \n要不你再多告诉我一点细节？我继续帮你找找看～或者我先记下来，马上让团队补上这块资料好吗？💪",
+    "_turn_index": 1,
+    "sample_type": "correct_refusal",
+    "is_evaluable": true,
+    "classification_reason": "疑似拒答(待P4核验): 无文档引用(refs=False,rel_docs=False), 无具体事实, 非greeting模板",
+    "classification_confidence": "medium",
+    "_refusal_signals": {
+      "no_docs": true,
+      "no_facts": true,
+      "is_greeting": false
+    }
+  },
+  {
+    "unit_id": "146293172216041648-1",
+    "session_id": "146293172216041648",
+    "question_raw": "保诚居家保险，可以覆盖门锁损坏吗",
+    "source_message_ids": [
+      "146293220601532592"
+    ],
+    "is_substantive": true,
+    "context_company": "保诚保险",
+    "context_product": "意外首护保",
+    "is_context_inferred": false,
+    "inference_basis": null,
+    "_session_company_names": [
+      "保诚保险"
+    ],
+    "_session_product_names": [],
+    "_assistant_product": "意外首护保",
+    "_assistant_has_response": true,
+    "_assistant_content_preview": "哎呀，我暂时没办法准确回答你这个问题哦～  \n我刚刚帮你翻了好多保诚居家保险的资料，还特别留意了“门锁损坏”这种细节，但没找到明确说明 😅  \n要不你再多告诉我一点具体情况？我继续帮你找找看～或者我先记下来，马上让团队补上这块资料好吗？💪",
+    "_turn_index": 1,
+    "sample_type": "correct_refusal",
+    "is_evaluable": true,
+    "classification_reason": "疑似拒答(待P4核验): 无文档引用(refs=False,rel_docs=False), 无具体事实, 非greeting模板",
+    "classification_confidence": "medium",
+    "_refusal_signals": {
+      "no_docs": true,
+      "no_facts": true,
+      "is_greeting": false
+    }
+  },
+  {
+    "unit_id": "146798504193331386-1",
+    "session_id": "146798504193331386",
+    "question_raw": "万通富饶传承3是怎样的产品",
+    "source_message_ids": [
+      "146798592693145786"
+    ],
+    "is_substantive": true,
+    "context_company": "万通保险",
+    "context_product": "富饶创富储蓄计划",
+    "is_context_inferred": false,
+    "inference_basis": null,
+    "_session_company_names": [
+      "万通保险"
+    ],
+    "_session_product_names": [],
+    "_assistant_product": "富饶创富储蓄计划",
+    "_assistant_has_response": true,
+    "_assistant_content_preview": "哎呀，我暂时没办法准确回答哦～但我真的帮你翻了好多资料，比如查了“万通富饶传承3号”的保障、缴费这些细节，还特别筛选了万通保险的文件，可惜还没找到匹配的内容 😅  \n要不你再多告诉我一点细节？我继续帮你找找看～或者我把这个问题记下来，马上告诉团队尽快补上资料好吗？🥰",
+    "_turn_index": 1,
+    "sample_type": "correct_refusal",
+    "is_evaluable": true,
+    "classification_reason": "疑似拒答(待P4核验): 无文档引用(refs=False,rel_docs=False), 无具体事实, 非greeting模板",
+    "classification_confidence": "medium",
+    "_refusal_signals": {
+      "no_docs": true,
+      "no_facts": true,
+      "is_greeting": false
+    }
+  },
+  {
+    "unit_id": "147505529495785658-1",
+    "session_id": "147505529495785658",
+    "question_raw": "友邦财富源源资料有吗",
+    "source_message_ids": [
+      "147505577965162682"
+    ],
+    "is_substantive": true,
+    "context_company": "友邦保险",
+    "context_product": "简爱延续保障计划5",
+    "is_context_inferred": false,
+    "inference_basis": null,
+    "_session_company_names": [
+      "友邦保险"
+    ],
+    "_session_product_names": [],
+    "_assistant_product": "简爱延续保障计划5",
+    "_assistant_has_response": true,
+    "_assistant_content_preview": "我暂时没找到“财富源源”这份资料呢，不过别担心，我已经帮你翻过产品条款、说明书这些常见文件啦～要不你再多告诉我一点细节？我继续帮你找找看～或者我先记下来，让团队尽快补上相关资料好吗？🥰",
+    "_turn_index": 1,
+    "sample_type": "correct_refusal",
+    "is_evaluable": true,
+    "classification_reason": "疑似拒答(待P4核验): 无文档引用(refs=False,rel_docs=False), 无具体事实, 非greeting模板",
+    "classification_confidence": "medium",
+    "_refusal_signals": {
+      "no_docs": true,
+      "no_facts": true,
+      "is_greeting": false
+    }
+  },
+  {
+    "unit_id": "147645231544701118-1",
+    "session_id": "147645231544701118",
+    "question_raw": "你熟悉银行对艺术品保价的业务吗？方便简单介绍一下吗？",
+    "source_message_ids": [
+      "147645238154924222"
+    ],
+    "is_substantive": true,
+    "context_company": null,
+    "context_product": null,
+    "is_context_inferred": false,
+    "inference_basis": null,
+    "_session_company_names": [],
+    "_session_product_names": [],
+    "_assistant_product": null,
+    "_assistant_has_response": true,
+    "_assistant_content_preview": "这个问题我可能不太擅长 🙁 我主要帮大家解答保险相关的问题～  \n不过说到艺术品保障，保险行业里倒是有专门的艺术品保险，可以承保盗窃、损坏、运输风险等，需要根据作品价值、材质、存放环境等定制方案 😊  \n要不要聊聊艺术品保险？或者你手上有客户在考虑这类保障？🧐",
+    "_turn_index": 1,
+    "sample_type": "correct_refusal",
+    "is_evaluable": true,
+    "classification_reason": "疑似拒答(待P4核验): 无文档引用(refs=False,rel_docs=False), 无具体事实, 非greeting模板",
+    "classification_confidence": "medium",
+    "_refusal_signals": {
+      "no_docs": true,
+      "no_facts": true,
+      "is_greeting": false
+    }
+  },
+  {
+    "unit_id": "148481722227396846-1",
+    "session_id": "148481722227396846",
+    "question_raw": "雋富多元貨幣計劃，保单赠与条件",
+    "source_message_ids": [
+      "148481802372157678"
+    ],
+    "is_substantive": true,
+    "context_company": null,
+    "context_product": "盈御多元货币计划3",
+    "is_context_inferred": false,
+    "inference_basis": null,
+    "_session_company_names": [],
+    "_session_product_names": [
+      "盈御多元货币计划3"
+    ],
+    "_assistant_product": "盈御多元货币计划3",
+    "_assistant_has_response": true,
+    "_assistant_content_preview": "哎呀，我暂时没办法准确回答哦～刚刚帮你翻了好多资料，查了“隽富多元货币计划”关于保单赠与的各种细节，比如资格、文件、税务这些，但还没找到明确说明 😅  \n要不你再多告诉我一点细节？我继续帮你找找看～或者我把这个问题记下来，马上告诉团队尽快补上资料好吗？💪",
+    "_turn_index": 1,
+    "sample_type": "correct_refusal",
+    "is_evaluable": true,
+    "classification_reason": "疑似拒答(待P4核验): 无文档引用(refs=False,rel_docs=False), 无具体事实, 非greeting模板",
+    "classification_confidence": "medium",
+    "_refusal_signals": {
+      "no_docs": true,
+      "no_facts": true,
+      "is_greeting": false
+    }
+  },
+  {
+    "unit_id": "148744177360867566-1",
+    "session_id": "148744177360867566",
+    "question_raw": "诚保一生，胰腺炎的核保要求",
+    "source_message_ids": [
+      "148744213314441454"
+    ],
+    "is_substantive": true,
+    "context_company": "保诚保险",
+    "context_product": "诚保一生危疾保",
+    "is_context_inferred": false,
+    "inference_basis": null,
+    "_session_company_names": [
+      "保诚保险"
+    ],
+    "_session_product_names": [
+      "诚保一生危疾保"
+    ],
+    "_assistant_product": null,
+    "_assistant_has_response": true,
+    "_assistant_content_preview": "哎呀，我暂时没办法准确回答哦～  \n刚刚帮你翻了好多保诚“诚保一生”的资料，也特别留意了胰腺炎相关的核保内容，但还没找到明确的细则 😅  \n要不你再多告诉我一点细节？我继续帮你找找看～或者我把这个问题记下来，马上告诉团队尽快补上资料好吗？💪",
+    "_turn_index": 1,
+    "sample_type": "correct_refusal",
+    "is_evaluable": true,
+    "classification_reason": "疑似拒答(待P4核验): 无文档引用(refs=False,rel_docs=False), 无具体事实, 非greeting模板",
+    "classification_confidence": "medium",
+    "_refusal_signals": {
+      "no_docs": true,
+      "no_facts": true,
+      "is_greeting": false
+    }
+  },
+  {
+    "unit_id": "148751329437716718-1",
+    "session_id": "148751329437716718",
+    "question_raw": "这没有这种医疗险吗 在香港私立医院生孩子，保生产意外，流产之类的",
+    "source_message_ids": [
+      "148751347171234030"
+    ],
+    "is_substantive": true,
+    "context_company": "万通保险",
+    "context_product": "医+住院保",
+    "is_context_inferred": false,
+    "inference_basis": null,
+    "_session_company_names": [
+      "富卫人寿",
+      "中国人寿",
+      "万通保险"
+    ],
+    "_session_product_names": [
+      "医+住院保"
+    ],
+    "_assistant_product": null,
+    "_assistant_has_response": true,
+    "_assistant_content_preview": "哎呀，我暂时没办法准确回答哦～但我真的帮你翻了好多资料，查了香港几家大保险公司关于私立医院生孩子的保障，特别是流产、生产意外这些细节，可惜目前没找到特别匹配的产品 😅  \n要不你再多告诉我一点细节？我继续帮你找找看～或者我把这个问题记下来，马上告诉团队尽快补上资料好吗？💪",
+    "_turn_index": 1,
+    "sample_type": "correct_refusal",
+    "is_evaluable": true,
+    "classification_reason": "疑似拒答(待P4核验): 无文档引用(refs=False,rel_docs=False), 无具体事实, 非greeting模板",
+    "classification_confidence": "medium",
+    "_refusal_signals": {
+      "no_docs": true,
+      "no_facts": true,
+      "is_greeting": false
+    }
+  },
+  {
+    "unit_id": "149029868217077998-1",
+    "session_id": "149029868217077998",
+    "question_raw": "苏黎世的高端医疗是什么",
+    "source_message_ids": [
+      "149029914639634670"
+    ],
+    "is_substantive": true,
+    "context_company": "苏黎世保险",
+    "context_product": "瑞安心定期保障计划",
+    "is_context_inferred": false,
+    "inference_basis": null,
+    "_session_company_names": [
+      "苏黎世人寿"
+    ],
+    "_session_product_names": [],
+    "_assistant_product": "瑞安心定期保障计划",
+    "_assistant_has_response": true,
+    "_assistant_content_preview": "哎呀，我暂时没办法准确回答哦～但我刚刚帮你翻了好多资料，查了苏黎世的高端医疗产品、保障内容和适用人群这些关键词，还特别筛选了他们家的信息呢！要不你再多告诉我一点细节？我继续帮你找找看～或者我把这个问题记下来，马上告诉我们团队尽快补上资料好吗？🥰",
+    "_turn_index": 1,
+    "sample_type": "correct_refusal",
+    "is_evaluable": true,
+    "classification_reason": "疑似拒答(待P4核验): 无文档引用(refs=False,rel_docs=False), 无具体事实, 非greeting模板",
+    "classification_confidence": "medium",
+    "_refusal_signals": {
+      "no_docs": true,
+      "no_facts": true,
+      "is_greeting": false
+    }
+  },
+  {
+    "unit_id": "149390218523349260-1",
+    "session_id": "149390218523349260",
+    "question_raw": "做一份万通人寿富饶万家计划书\n52岁 女性 每年缴费5万美金 缴费5年  从60岁开始做领取 领终身  请计算一个合理的每年提领金额",
+    "source_message_ids": [
+      "149390242850312460"
+    ],
+    "is_substantive": true,
+    "context_company": "万通保险",
+    "context_product": "万通多元终身年金",
+    "is_context_inferred": false,
+    "inference_basis": null,
+    "_session_company_names": [
+      "万通保险"
+    ],
+    "_session_product_names": [
+      "万通多元终身年金",
+      "万通即享年金",
+      "富饶万家储蓄保险计划"
+    ],
+    "_assistant_product": null,
+    "_assistant_has_response": true,
+    "_assistant_content_preview": "哎呀，我暂时没办法准确回答哦～但我真的帮你翻了好多资料，包括用不同关键词查“万通富饶万家”、缴费和领取条件这些，都没找到匹配的测算数据 😅  \n要不你再多告诉我一点细节？我继续帮你找找看～或者我把这个问题记下来，马上告诉团队尽快补上资料好吗？🥰",
+    "_turn_index": 1,
+    "sample_type": "correct_refusal",
+    "is_evaluable": true,
+    "classification_reason": "疑似拒答(待P4核验): 无文档引用(refs=False,rel_docs=False), 无具体事实, 非greeting模板",
+    "classification_confidence": "medium",
+    "_refusal_signals": {
+      "no_docs": true,
+      "no_facts": true,
+      "is_greeting": false
+    }
+  },
+  {
+    "unit_id": "149390310311497996-1",
+    "session_id": "149390310311497996",
+    "question_raw": "做一份万通人寿富饶万家计划书\n52岁 女性 每年缴费5万美金 缴费5年  从60岁开始做领取 领终身  每年领取1万美金",
+    "source_message_ids": [
+      "149390333061402892"
+    ],
+    "is_substantive": true,
+    "context_company": "万通保险",
+    "context_product": "万通多元终身年金",
+    "is_context_inferred": false,
+    "inference_basis": null,
+    "_session_company_names": [
+      "万通保险"
+    ],
+    "_session_product_names": [
+      "万通多元终身年金",
+      "万通即享年金",
+      "富饶万家储蓄保险计划"
+    ],
+    "_assistant_product": null,
+    "_assistant_has_response": true,
+    "_assistant_content_preview": "哎呀，我暂时没办法准确回答哦～但我真的帮你翻了好多资料，还特别按“万通富饶万家+缴费领取细节”这样仔仔细细搜过啦！要不你再多告诉我一点细节？我继续帮你找找看～或者我把这个问题记下来，马上告诉团队尽快补上资料好吗？🥰",
+    "_turn_index": 1,
+    "sample_type": "correct_refusal",
+    "is_evaluable": true,
+    "classification_reason": "疑似拒答(待P4核验): 无文档引用(refs=False,rel_docs=False), 无具体事实, 非greeting模板",
+    "classification_confidence": "medium",
+    "_refusal_signals": {
+      "no_docs": true,
+      "no_facts": true,
+      "is_greeting": false
+    }
+  },
+  {
+    "unit_id": "149916572570390802-1",
+    "session_id": "149916572570390802",
+    "question_raw": "请解释一下永明星河尊享的意外医疗保障",
+    "source_message_ids": [
+      "149916589767037202"
+    ],
+    "is_substantive": true,
+    "context_company": "永明金融",
+    "context_product": "永明港无忧医疗保",
+    "is_context_inferred": false,
+    "inference_basis": null,
+    "_session_company_names": [
+      "永明金融"
+    ],
+    "_session_product_names": [
+      "永明港无忧医疗保",
+      "永明港称心医疗保",
+      "永明港卓越医疗保"
+    ],
+    "_assistant_product": null,
+    "_assistant_has_response": true,
+    "_assistant_content_preview": "哎呀，我暂时没办法准确回答哦～但我真的帮你翻了好多资料，包括永明“星河尊享”的意外医疗保障细节，像报销范围、门诊住院能不能报这些都查啦，可惜还没找到匹配的内容 😅  \n要不你再多告诉我一点细节？我继续帮你找找看～或者我把这个问题记下来，马上让团队补上资料好吗？💪",
+    "_turn_index": 1,
+    "sample_type": "correct_refusal",
+    "is_evaluable": true,
+    "classification_reason": "疑似拒答(待P4核验): 无文档引用(refs=False,rel_docs=False), 无具体事实, 非greeting模板",
+    "classification_confidence": "medium",
+    "_refusal_signals": {
+      "no_docs": true,
+      "no_facts": true,
+      "is_greeting": false
+    }
+  },
+  {
+    "unit_id": "149916604279329042-1",
+    "session_id": "149916604279329042",
+    "question_raw": "请解释一下永明星河尊享的意外护理保障",
+    "source_message_ids": [
+      "149916621106876690"
+    ],
+    "is_substantive": true,
+    "context_company": "永明金融",
+    "context_product": "永护保障计划",
+    "is_context_inferred": false,
+    "inference_basis": null,
+    "_session_company_names": [
+      "永明金融"
+    ],
+    "_session_product_names": [
+      "永护保障计划"
+    ],
+    "_assistant_product": null,
+    "_assistant_has_response": true,
+    "_assistant_content_preview": "哎呀，我暂时没办法准确回答哦～刚刚帮你翻了好多资料，也按“永明”“星河尊享”“意外护理保障”这些关键词仔仔细细搜了一遍，但还没找到匹配的内容 😅  \n要不你再多告诉我一点细节？我继续帮你找找看～或者我把这个问题记下来，马上告诉我们团队尽快补上资料好吗？💪",
+    "_turn_index": 1,
+    "sample_type": "correct_refusal",
+    "is_evaluable": true,
+    "classification_reason": "疑似拒答(待P4核验): 无文档引用(refs=False,rel_docs=False), 无具体事实, 非greeting模板",
+    "classification_confidence": "medium",
+    "_refusal_signals": {
+      "no_docs": true,
+      "no_facts": true,
+      "is_greeting": false
+    }
+  },
+  {
+    "unit_id": "149926489532436754-1",
+    "session_id": "149926489532436754",
+    "question_raw": "我们有哪些好一点的定期寿险",
+    "source_message_ids": [
+      "149926515570675986"
+    ],
+    "is_substantive": true,
+    "context_company": "宏利保险",
+    "context_product": "定期寿险计划",
+    "is_context_inferred": false,
+    "inference_basis": null,
+    "_session_company_names": [
+      "宏利保险",
+      "周大福人寿",
+      "富卫人寿"
+    ],
+    "_session_product_names": [
+      "定期寿险计划",
+      "承誉定期寿险",
+      "精选定期寿险"
+    ],
+    "_assistant_product": null,
+    "_assistant_has_response": true,
+    "_assistant_content_preview": "哎呀，我暂时没办法准确回答哦～刚刚帮你翻了宏利、周大福、富卫这几家的定期寿险资料，想挑些保障好又宽松的推荐给你，但没找到合适的 😅  \n要不你再多告诉我一点细节？比如客户年龄或健康状况？我继续帮你找找看～或者我先记下来，马上让团队补上资料！💪",
+    "_turn_index": 1,
+    "sample_type": "correct_refusal",
+    "is_evaluable": true,
+    "classification_reason": "疑似拒答(待P4核验): 无文档引用(refs=False,rel_docs=False), 无具体事实, 非greeting模板",
+    "classification_confidence": "medium",
+    "_refusal_signals": {
+      "no_docs": true,
+      "no_facts": true,
+      "is_greeting": false
+    }
+  },
+  {
+    "unit_id": "149926581555466514-1",
+    "session_id": "149926581555466514",
+    "question_raw": "香港定期寿险哪家杠杆高",
+    "source_message_ids": [
+      "149926596940173586"
+    ],
+    "is_substantive": true,
+    "context_company": "宏利保险",
+    "context_product": "定期寿险计划",
+    "is_context_inferred": false,
+    "inference_basis": null,
+    "_session_company_names": [
+      "宏利保险",
+      "周大福人寿",
+      "富卫人寿"
+    ],
+    "_session_product_names": [
+      "定期寿险计划",
+      "承誉定期寿险",
+      "精选定期寿险"
+    ],
+    "_assistant_product": null,
+    "_assistant_has_response": true,
+    "_assistant_content_preview": "哎呀，这个问题我暂时没办法准确回答你哦～但我刚刚真的有帮你翻了好多家热门公司的资料，像宏利、周大福、富卫这些都查啦，可惜还没找到特别对得上的内容 😅  \n要不你再多告诉我一点细节？我继续帮你找找看～或者我把这个问题记下来，马上通知我们团队尽快补上资料好吗？💪",
+    "_turn_index": 1,
+    "sample_type": "correct_refusal",
+    "is_evaluable": true,
+    "classification_reason": "疑似拒答(待P4核验): 无文档引用(refs=False,rel_docs=False), 无具体事实, 非greeting模板",
+    "classification_confidence": "medium",
+    "_refusal_signals": {
+      "no_docs": true,
+      "no_facts": true,
+      "is_greeting": false
+    }
+  },
+  {
+    "unit_id": "149951794657661202-1",
+    "session_id": "149951794657661202",
+    "question_raw": "太平洋保险接受要员投保吗",
+    "source_message_ids": [
+      "149951831601090834"
+    ],
+    "is_substantive": true,
+    "context_company": "中国太平",
+    "context_product": "爱相传终身人寿计划",
+    "is_context_inferred": false,
+    "inference_basis": null,
+    "_session_company_names": [
+      "太平洋人寿"
+    ],
+    "_session_product_names": [],
+    "_assistant_product": "爱相传终身人寿计划",
+    "_assistant_has_response": true,
+    "_assistant_content_preview": "哎呀，这个问题我暂时还没办法给你准确答案哦～ 我刚刚帮你翻了好多太平洋人寿的资料，也按“要员投保”这样的关键词细细筛过，但确实没找到明确说法。  \n要不你再多告诉我一点细节？我继续帮你找找看～ 或者我先记下来，马上让团队补上这块资料！💪",
+    "_turn_index": 1,
+    "sample_type": "correct_refusal",
+    "is_evaluable": true,
+    "classification_reason": "疑似拒答(待P4核验): 无文档引用(refs=False,rel_docs=False), 无具体事实, 非greeting模板",
+    "classification_confidence": "medium",
+    "_refusal_signals": {
+      "no_docs": true,
+      "no_facts": true,
+      "is_greeting": false
+    }
+  },
+  {
+    "unit_id": "150197505794019605-1",
+    "session_id": "150197505794019605",
+    "question_raw": "保诚诚保一生最低保费要求和缴费期限",
+    "source_message_ids": [
+      "150197524181848341"
+    ],
+    "is_substantive": true,
+    "context_company": "保诚保险",
+    "context_product": "诚保一生危疾保",
+    "is_context_inferred": false,
+    "inference_basis": null,
+    "_session_company_names": [
+      "保诚保险"
+    ],
+    "_session_product_names": [
+      "诚保一生危疾保"
+    ],
+    "_assistant_product": null,
+    "_assistant_has_response": true,
+    "_assistant_content_preview": "哎呀，我暂时没办法准确回答哦～刚刚帮你翻了好多资料，也按“保诚”“诚保一生”“缴费年限”这些关键词认真找过啦，但还没找到最合适的答案 😅  \n要不你再多告诉我一点细节？我继续帮你找找看～或者我把这个问题记下来，马上告诉团队尽快补上资料好吗？💪",
+    "_turn_index": 1,
+    "sample_type": "correct_refusal",
+    "is_evaluable": true,
+    "classification_reason": "疑似拒答(待P4核验): 无文档引用(refs=False,rel_docs=False), 无具体事实, 非greeting模板",
+    "classification_confidence": "medium",
+    "_refusal_signals": {
+      "no_docs": true,
+      "no_facts": true,
+      "is_greeting": false
+    }
+  },
+  {
+    "unit_id": "150399435661152539-1",
+    "session_id": "150399435661152539",
+    "question_raw": "哪家公司，健康核保，松果体囊肿可以保的",
+    "source_message_ids": [
+      "150399558000611611"
+    ],
+    "is_substantive": true,
+    "context_company": null,
+    "context_product": "确卫您医疗计划",
+    "is_context_inferred": false,
+    "inference_basis": null,
+    "_session_company_names": [],
+    "_session_product_names": [],
+    "_assistant_product": "确卫您医疗计划",
+    "_assistant_has_response": true,
+    "_assistant_content_preview": "哎呀，这个问题我暂时没办法准确回答你哦～但我真的帮你翻了好多资料，查了不同公司对松果体囊肿在健康核保时的处理方式，可惜还没找到明确能保的答案🥲  \n要不你再多告诉我一点细节？我继续帮你找找看～或者我先把这个问题记下来，马上反馈给团队补上资料，好吗？💪",
+    "_turn_index": 1,
+    "sample_type": "correct_refusal",
+    "is_evaluable": true,
+    "classification_reason": "疑似拒答(待P4核验): 无文档引用(refs=False,rel_docs=False), 无具体事实, 非greeting模板",
+    "classification_confidence": "medium",
+    "_refusal_signals": {
+      "no_docs": true,
+      "no_facts": true,
+      "is_greeting": false
+    }
+  },
+  {
+    "unit_id": "151834202671714614-1",
+    "session_id": "151834202671714614",
+    "question_raw": "安达保单倒期说明",
+    "source_message_ids": [
+      "151834247869534518"
+    ],
+    "is_substantive": true,
+    "context_company": "安达人寿",
+    "context_product": "湾区医疗门诊计划",
+    "is_context_inferred": false,
+    "inference_basis": null,
+    "_session_company_names": [
+      "安达人寿"
+    ],
+    "_session_product_names": [],
+    "_assistant_product": "湾区医疗门诊计划",
+    "_assistant_has_response": true,
+    "_assistant_content_preview": "哎呀，我暂时没办法准确回答哦～但我刚刚帮你翻了好多安达人寿的资料，从保单到期、满期给付到续保规则都查了一遍，可惜还没找到特别匹配的内容 😅  \n要不你再多告诉我一点细节？我继续帮你找找看～或者我把这个问题记下来，马上告诉团队尽快补上资料好吗？💪",
+    "_turn_index": 1,
+    "sample_type": "correct_refusal",
+    "is_evaluable": true,
+    "classification_reason": "疑似拒答(待P4核验): 无文档引用(refs=False,rel_docs=False), 无具体事实, 非greeting模板",
+    "classification_confidence": "medium",
+    "_refusal_signals": {
+      "no_docs": true,
+      "no_facts": true,
+      "is_greeting": false
+    }
+  },
+  {
+    "unit_id": "152009667118141792-1",
+    "session_id": "152009667118141792",
+    "question_raw": "富饶万家怎么样",
+    "source_message_ids": [
+      "152009746071720288"
+    ],
+    "is_substantive": true,
+    "context_company": "富卫人寿",
+    "context_product": "盈聚·天下寿险计划",
+    "is_context_inferred": false,
+    "inference_basis": null,
+    "_session_company_names": [
+      "富卫人寿"
+    ],
+    "_session_product_names": [],
+    "_assistant_product": "盈聚·天下寿险计划",
+    "_assistant_has_response": true,
+    "_assistant_content_preview": "哎呀，我暂时没办法准确回答你这个问题哦～  \n我刚帮你翻了好多资料，还特地查了富卫人寿相关的“富饶万家”产品评价、保障和收益这些内容，但目前没找到特别匹配的信息 😅  \n要不你再多告诉我一点细节？我继续帮你找找看～或者我把这个问题记下来，马上让团队补上资料好吗？💪",
+    "_turn_index": 1,
+    "sample_type": "correct_refusal",
+    "is_evaluable": true,
+    "classification_reason": "疑似拒答(待P4核验): 无文档引用(refs=False,rel_docs=False), 无具体事实, 非greeting模板",
+    "classification_confidence": "medium",
+    "_refusal_signals": {
+      "no_docs": true,
+      "no_facts": true,
+      "is_greeting": false
+    }
+  },
+  {
+    "unit_id": "152075983795556704-1",
+    "session_id": "152075983795556704",
+    "question_raw": "你搞错了。我问的是强制性公积金计划考试是否有需要去通过",
+    "source_message_ids": [
+      "152075991479521632"
+    ],
+    "is_substantive": true,
+    "context_company": null,
+    "context_product": null,
+    "is_context_inferred": false,
+    "inference_basis": null,
+    "_session_company_names": [],
+    "_session_product_names": [],
+    "_assistant_product": null,
+    "_assistant_has_response": true,
+    "_assistant_content_preview": "这个问题我可能不太擅长 🙁 我主要帮大家解答保险相关的问题～  \n不过你提到的“强制性公积金计划考试”，听起来像是香港的MPF（强积金）相关认证，和保险从业资格不同。如果你是保险代理持牌人，可能更需要关注的是保险中介人考试（IIQE）哦～  \n需要我帮你梳理IIQE的报考流程或备考重点吗？😊",
+    "_turn_index": 1,
+    "sample_type": "correct_refusal",
+    "is_evaluable": true,
+    "classification_reason": "疑似拒答(待P4核验): 无文档引用(refs=False,rel_docs=False), 无具体事实, 非greeting模板",
+    "classification_confidence": "medium",
+    "_refusal_signals": {
+      "no_docs": true,
+      "no_facts": true,
+      "is_greeting": false
+    }
+  },
+  {
+    "unit_id": "152547503777026568-1",
+    "session_id": "152547503777026568",
+    "question_raw": "請問一下全年旅游保險如何投保？",
+    "source_message_ids": [
+      "152547585247187464"
+    ],
+    "is_substantive": true,
+    "context_company": null,
+    "context_product": "银意保",
+    "is_context_inferred": false,
+    "inference_basis": null,
+    "_session_company_names": [],
+    "_session_product_names": [],
+    "_assistant_product": "银意保",
+    "_assistant_has_response": true,
+    "_assistant_content_preview": "哎呀，我暂时没办法准确回答哦～但我真的帮你翻了好多地方，比如投保流程、渠道、资料这些细节都查了，可惜还没找到特别匹配的内容。要不你再多告诉我一点细节？我继续帮你找找看～或者我把这个问题记下来，马上告诉我们团队尽快补上资料好吗？🥰",
+    "_turn_index": 1,
+    "sample_type": "correct_refusal",
+    "is_evaluable": true,
+    "classification_reason": "疑似拒答(待P4核验): 无文档引用(refs=False,rel_docs=False), 无具体事实, 非greeting模板",
+    "classification_confidence": "medium",
+    "_refusal_signals": {
+      "no_docs": true,
+      "no_facts": true,
+      "is_greeting": false
+    }
+  },
+  {
+    "unit_id": "153848100857877410-1",
+    "session_id": "153848100857877410",
+    "question_raw": "富绕盈嘉产品小册子",
+    "source_message_ids": [
+      "153848140586324898"
+    ],
+    "is_substantive": true,
+    "context_company": null,
+    "context_product": "盈聚·天下寿险计划",
+    "is_context_inferred": false,
+    "inference_basis": null,
+    "_session_company_names": [],
+    "_session_product_names": [],
+    "_assistant_product": "盈聚·天下寿险计划",
+    "_assistant_has_response": true,
+    "_assistant_content_preview": "哎呀，我暂时没办法准确回答哦～刚刚帮你翻了好多地方，比如查“富卫 富绕盈嘉 产品小册子”这些关键词，也试着从不同角度找，但还没找到合适的资料 😅  \n要不你再多告诉我一点细节？我继续帮你找找看～或者我把这个问题记下来，马上通知我们团队尽快补上资料好吗？💪",
+    "_turn_index": 1,
+    "sample_type": "correct_refusal",
+    "is_evaluable": true,
+    "classification_reason": "疑似拒答(待P4核验): 无文档引用(refs=False,rel_docs=False), 无具体事实, 非greeting模板",
+    "classification_confidence": "medium",
+    "_refusal_signals": {
+      "no_docs": true,
+      "no_facts": true,
+      "is_greeting": false
+    }
+  },
+  {
+    "unit_id": "153848125990146978-1",
+    "session_id": "153848125990146978",
+    "question_raw": "富绕盈家产品小册子",
+    "source_message_ids": [
+      "153848179576574882"
+    ],
+    "is_substantive": true,
+    "context_company": "富卫人寿",
+    "context_product": "危疾优易保 - 挚护您",
+    "is_context_inferred": false,
+    "inference_basis": null,
+    "_session_company_names": [
+      "富卫人寿"
+    ],
+    "_session_product_names": [],
+    "_assistant_product": "危疾优易保 - 挚护您",
+    "_assistant_has_response": true,
+    "_assistant_content_preview": "哎呀，我暂时没办法准确回答哦～刚刚帮你翻了好多资料，还特别查了富卫人寿相关的文件，但没找到“富绕盈家”这个产品的小册子呢 😅  \n要不你再多告诉我一点细节？我继续帮你找找看～或者我把这个问题记下来，马上通知我们团队尽快补上资料好吗？🥰",
+    "_turn_index": 1,
+    "sample_type": "correct_refusal",
+    "is_evaluable": true,
+    "classification_reason": "疑似拒答(待P4核验): 无文档引用(refs=False,rel_docs=False), 无具体事实, 非greeting模板",
+    "classification_confidence": "medium",
+    "_refusal_signals": {
+      "no_docs": true,
+      "no_facts": true,
+      "is_greeting": false
+    }
+  },
+  {
+    "unit_id": "153848260107211682-1",
+    "session_id": "153848260107211682",
+    "question_raw": "富饶盈家产品小册子",
+    "source_message_ids": [
+      "153848308962464674"
+    ],
+    "is_substantive": true,
+    "context_company": "富卫人寿",
+    "context_product": "危疾优易保 - 挚护您",
+    "is_context_inferred": false,
+    "inference_basis": null,
+    "_session_company_names": [
+      "富卫人寿"
+    ],
+    "_session_product_names": [],
+    "_assistant_product": "危疾优易保 - 挚护您",
+    "_assistant_has_response": true,
+    "_assistant_content_preview": "哎呀，我暂时没办法准确回答哦～刚刚帮你翻了好多资料，还特别查了富卫人寿相关的“富饶盈家”产品小册子，但目前没找到合适的版本 😅  \n要不你再多告诉我一点细节？我继续帮你找找看～或者我把这个问题记下来，马上通知我们团队尽快补上资料好吗？💪",
+    "_turn_index": 1,
+    "sample_type": "correct_refusal",
+    "is_evaluable": true,
+    "classification_reason": "疑似拒答(待P4核验): 无文档引用(refs=False,rel_docs=False), 无具体事实, 非greeting模板",
+    "classification_confidence": "medium",
+    "_refusal_signals": {
+      "no_docs": true,
+      "no_facts": true,
+      "is_greeting": false
+    }
+  },
+  {
+    "unit_id": "154103696811135906-1",
+    "session_id": "154103696811135906",
+    "question_raw": "请问是否有这个产品的资料：Cigna Global Health Options (Gold Plan)",
+    "source_message_ids": [
+      "154103825106506658"
+    ],
+    "is_substantive": true,
+    "context_company": null,
+    "context_product": "盈御多元货币计划3",
+    "is_context_inferred": false,
+    "inference_basis": null,
+    "_session_company_names": [],
+    "_session_product_names": [],
+    "_assistant_product": "盈御多元货币计划3",
+    "_assistant_has_response": true,
+    "_assistant_content_preview": "哎呀，我暂时没办法准确回答哦～  \n我刚刚帮你翻了好多地方，比如用不同说法搜“Cigna Global Health Options Gold Plan”的产品资料，也试着按公司和产品名筛选，但都没找到匹配的内容。  \n要不你再多告诉我一点细节？我继续帮你找找看～或者我把这个问题记下来，马上告诉团队尽快补上资料好吗？😊",
+    "_turn_index": 1,
+    "sample_type": "correct_refusal",
+    "is_evaluable": true,
+    "classification_reason": "疑似拒答(待P4核验): 无文档引用(refs=False,rel_docs=False), 无具体事实, 非greeting模板",
+    "classification_confidence": "medium",
+    "_refusal_signals": {
+      "no_docs": true,
+      "no_facts": true,
+      "is_greeting": false
+    }
+  },
+  {
+    "unit_id": "154103937614517154-1",
+    "session_id": "154103937614517154",
+    "question_raw": "请问是否有关于 cigna global 的医疗险产品资料",
+    "source_message_ids": [
+      "154104001837700002"
+    ],
+    "is_substantive": true,
+    "context_company": null,
+    "context_product": "环宇盈活储蓄保险计划",
+    "is_context_inferred": false,
+    "inference_basis": null,
+    "_session_company_names": [],
+    "_session_product_names": [],
+    "_assistant_product": "环宇盈活储蓄保险计划",
+    "_assistant_has_response": true,
+    "_assistant_content_preview": "哎呀，我暂时没办法准确回答哦～刚刚帮你翻了好多地方，比如用“信诺环球”“Cigna Global医疗险”这些关键词都仔细找过啦，但还没找到合适的资料 😅  \n要不你再多告诉我一点细节？我继续帮你找找看～或者我把这个问题记下来，马上告诉我们团队尽快补上资料好吗？🥰",
+    "_turn_index": 1,
+    "sample_type": "correct_refusal",
+    "is_evaluable": true,
+    "classification_reason": "疑似拒答(待P4核验): 无文档引用(refs=False,rel_docs=False), 无具体事实, 非greeting模板",
+    "classification_confidence": "medium",
+    "_refusal_signals": {
+      "no_docs": true,
+      "no_facts": true,
+      "is_greeting": false
+    }
+  },
+  {
+    "unit_id": "155607231600038993-1",
+    "session_id": "155607231600038993",
+    "question_raw": "请问中银月悅出息这款储蓄险产品，投保后之后第五年是否能进行保单融资贷款？",
+    "source_message_ids": [
+      "155607330870826065"
+    ],
+    "is_substantive": true,
+    "context_company": "中银人寿",
+    "context_product": "月悦出息终身享保险计划",
+    "is_context_inferred": false,
+    "inference_basis": null,
+    "_session_company_names": [
+      "中银人寿"
+    ],
+    "_session_product_names": [],
+    "_assistant_product": "月悦出息终身享保险计划",
+    "_assistant_has_response": true,
+    "_assistant_content_preview": "哎呀，我暂时没办法准确回答哦～但我真的帮你翻了好多资料，包括中银人寿的产品说明和相关条款，想确认“月悦出息”第五年能不能做保单融资贷款，可惜还没找到明确信息 😅  \n要不你再多告诉我一点细节？我继续帮你找找看～或者我把这个问题记下来，马上通知我们团队尽快补上资料好吗？💪",
+    "_turn_index": 1,
+    "sample_type": "correct_refusal",
+    "is_evaluable": true,
+    "classification_reason": "疑似拒答(待P4核验): 无文档引用(refs=False,rel_docs=False), 无具体事实, 非greeting模板",
+    "classification_confidence": "medium",
+    "_refusal_signals": {
+      "no_docs": true,
+      "no_facts": true,
+      "is_greeting": false
+    }
+  },
+  {
+    "unit_id": "156012206331302993-1",
+    "session_id": "156012206331302993",
+    "question_raw": "哪些保司的重疾险，胎儿19周可以投保？",
+    "source_message_ids": [
+      "156012436095276113"
+    ],
+    "is_substantive": true,
+    "context_company": null,
+    "context_product": null,
+    "is_context_inferred": false,
+    "inference_basis": null,
+    "_session_company_names": [],
+    "_session_product_names": [],
+    "_assistant_product": null,
+    "_assistant_has_response": true,
+    "_assistant_content_preview": "呜呜，小飞飞刚才大脑断片了... 🧠 正在紧急重启中，等等我嘛！",
+    "_turn_index": 1,
+    "sample_type": "correct_refusal",
+    "is_evaluable": true,
+    "classification_reason": "疑似拒答(待P4核验): 无文档引用(refs=False,rel_docs=False), 无具体事实, 非greeting模板",
+    "classification_confidence": "medium",
+    "_refusal_signals": {
+      "no_docs": true,
+      "no_facts": true,
+      "is_greeting": false
+    }
+  },
+  {
+    "unit_id": "156015988284888145-1",
+    "session_id": "156015988284888145",
+    "question_raw": "哪些保司的重疾险，胎儿19周可以投保？",
+    "source_message_ids": [
+      "156016179847140433"
+    ],
+    "is_substantive": true,
+    "context_company": null,
+    "context_product": null,
+    "is_context_inferred": false,
+    "inference_basis": null,
+    "_session_company_names": [],
+    "_session_product_names": [],
+    "_assistant_product": null,
+    "_assistant_has_response": true,
+    "_assistant_content_preview": "呜呜，小飞飞刚才大脑断片了... 🧠 正在紧急重启中，等等我嘛！",
+    "_turn_index": 1,
+    "sample_type": "correct_refusal",
+    "is_evaluable": true,
+    "classification_reason": "疑似拒答(待P4核验): 无文档引用(refs=False,rel_docs=False), 无具体事实, 非greeting模板",
+    "classification_confidence": "medium",
+    "_refusal_signals": {
+      "no_docs": true,
+      "no_facts": true,
+      "is_greeting": false
+    }
+  },
+  {
+    "unit_id": "156016161811633233-1",
+    "session_id": "156016161811633233",
+    "question_raw": "请问一下宏利的医疗保单生效后，客户投保时签名的文件需要在保司保存多长时间？",
+    "source_message_ids": [
+      "156016222494823505"
+    ],
+    "is_substantive": true,
+    "context_company": "宏利保险",
+    "context_product": "晋领医疗保障系列",
+    "is_context_inferred": false,
+    "inference_basis": null,
+    "_session_company_names": [
+      "宏利保险"
+    ],
+    "_session_product_names": [],
+    "_assistant_product": "晋领医疗保障系列",
+    "_assistant_has_response": true,
+    "_assistant_content_preview": "哎呀，这个问题我暂时没办法准确回答你哦～  \n我刚刚帮你翻了宏利相关的资料库，也按“医疗保单”“签名文件”“保存期限”这些关键词认真找了一圈，可惜没找到明确说法。  \n要不你再多告诉我一点细节？我继续帮你找找看～或者我把这个问题记下来，马上告诉团队尽快补上资料好吗？🥰",
+    "_turn_index": 1,
+    "sample_type": "correct_refusal",
+    "is_evaluable": true,
+    "classification_reason": "疑似拒答(待P4核验): 无文档引用(refs=False,rel_docs=False), 无具体事实, 非greeting模板",
+    "classification_confidence": "medium",
+    "_refusal_signals": {
+      "no_docs": true,
+      "no_facts": true,
+      "is_greeting": false
+    }
+  },
+  {
+    "unit_id": "157380836902072072-1",
+    "session_id": "157380836902072072",
+    "question_raw": "中国人寿的保险条款",
+    "source_message_ids": [
+      "157380860708941576"
+    ],
+    "is_substantive": true,
+    "context_company": "中国人寿",
+    "context_product": null,
+    "is_context_inferred": false,
+    "inference_basis": null,
+    "_session_company_names": [
+      "中国人寿"
+    ],
+    "_session_product_names": [],
+    "_assistant_product": null,
+    "_assistant_has_response": true,
+    "_assistant_content_preview": "哎呀，我暂时没办法准确回答哦～刚才帮你翻了好多资料，还特别筛了中国人寿相关的条款内容，但没找到合适的部分 😅  \n要不你再多告诉我一点细节？比如具体产品名称或想了解哪类保障？我继续帮你找找看～或者我先记下来，催团队快点补上资料！💪",
+    "_turn_index": 1,
+    "sample_type": "correct_refusal",
+    "is_evaluable": true,
+    "classification_reason": "疑似拒答(待P4核验): 无文档引用(refs=False,rel_docs=False), 无具体事实, 非greeting模板",
+    "classification_confidence": "medium",
+    "_refusal_signals": {
+      "no_docs": true,
+      "no_facts": true,
+      "is_greeting": false
+    }
+  },
+  {
+    "unit_id": "157424077324185352-1",
+    "session_id": "157424077324185352",
+    "question_raw": "宏利宏挚家传承，开启无忧选的时候，能不能减保提取和锁定红利？",
+    "source_message_ids": [
+      "157424102758444808"
+    ],
+    "is_substantive": true,
+    "context_company": "宏利保险",
+    "context_product": null,
+    "is_context_inferred": false,
+    "inference_basis": null,
+    "_session_company_names": [
+      "宏利保险"
+    ],
+    "_session_product_names": [],
+    "_assistant_product": null,
+    "_assistant_has_response": true,
+    "_assistant_content_preview": "哎呀，我暂时没办法准确回答哦～  \n刚刚帮你翻了好多资料，也查了宏利的“宏挚家传承”和“无忧选”相关的内容，但还没找到明确提到减保提取和锁定红利的具体规则 😅  \n要不你再多告诉我一点细节？我继续帮你找找看～或者我把这个问题记下来，马上告诉团队尽快补上资料好吗？💪",
+    "_turn_index": 1,
+    "sample_type": "correct_refusal",
+    "is_evaluable": true,
+    "classification_reason": "疑似拒答(待P4核验): 无文档引用(refs=False,rel_docs=False), 无具体事实, 非greeting模板",
+    "classification_confidence": "medium",
+    "_refusal_signals": {
+      "no_docs": true,
+      "no_facts": true,
+      "is_greeting": false
+    }
+  },
+  {
+    "unit_id": "157438837499391752-1",
+    "session_id": "157438837499391752",
+    "question_raw": "中国人寿的保险条款",
+    "source_message_ids": [
+      "157439126386274056"
+    ],
+    "is_substantive": true,
+    "context_company": "中国人寿",
+    "context_product": null,
+    "is_context_inferred": false,
+    "inference_basis": null,
+    "_session_company_names": [
+      "中国人寿"
+    ],
+    "_session_product_names": [],
+    "_assistant_product": null,
+    "_assistant_has_response": true,
+    "_assistant_content_preview": "哎呀，我暂时没办法准确回答哦～  \n刚刚帮你翻了好多资料，查了“中国人寿”“中寿”“保险条款”这些关键词，也筛了公司范围，但还没找到特别对得上的内容 😅  \n要不你再多告诉我一点细节？我继续帮你找找看～或者我把这个问题记下来，马上告诉团队尽快补上资料好吗？🥰",
+    "_turn_index": 1,
+    "sample_type": "correct_refusal",
+    "is_evaluable": true,
+    "classification_reason": "疑似拒答(待P4核验): 无文档引用(refs=False,rel_docs=False), 无具体事实, 非greeting模板",
+    "classification_confidence": "medium",
+    "_refusal_signals": {
+      "no_docs": true,
+      "no_facts": true,
+      "is_greeting": false
+    }
+  },
+  {
+    "unit_id": "157439195021864712-1",
+    "session_id": "157439195021864712",
+    "question_raw": "万通富饶万家多少年可以操作货币转换",
+    "source_message_ids": [
+      "157439231982071560"
+    ],
+    "is_substantive": true,
+    "context_company": "万通保险",
+    "context_product": null,
+    "is_context_inferred": false,
+    "inference_basis": null,
+    "_session_company_names": [
+      "万通保险"
+    ],
+    "_session_product_names": [],
+    "_assistant_product": null,
+    "_assistant_has_response": true,
+    "_assistant_content_preview": "哎呀，我暂时没办法准确回答哦～  \n我刚刚帮你翻了好多资料，还特别筛了万通保险的相关内容，想找到“富饶万家”什么时候能换货币，但还没挖到确切答案 😅  \n要不你再多告诉我一点细节？我继续帮你找找看～或者我先记下来，马上让团队补上这块资料好吗？💪",
+    "_turn_index": 1,
+    "sample_type": "correct_refusal",
+    "is_evaluable": true,
+    "classification_reason": "疑似拒答(待P4核验): 无文档引用(refs=False,rel_docs=False), 无具体事实, 非greeting模板",
+    "classification_confidence": "medium",
+    "_refusal_signals": {
+      "no_docs": true,
+      "no_facts": true,
+      "is_greeting": false
+    }
+  },
+  {
+    "unit_id": "157439965783944968-1",
+    "session_id": "157439965783944968",
+    "question_raw": "中国人寿傲珑盛世是否支持按月提领",
+    "source_message_ids": [
+      "157440029872910088"
+    ],
+    "is_substantive": true,
+    "context_company": "中国人寿",
+    "context_product": null,
+    "is_context_inferred": false,
+    "inference_basis": null,
+    "_session_company_names": [
+      "中国人寿"
+    ],
+    "_session_product_names": [],
+    "_assistant_product": null,
+    "_assistant_has_response": true,
+    "_assistant_content_preview": "哎呀，我暂时没办法准确回答哦～  \n刚刚帮你翻了好多资料，也按“中国人寿+傲珑盛世+按月提领”这些关键词认真找过啦，但还没找到明确说明 😅  \n要不你再多告诉我一点细节？我继续帮你找找看～或者我把这个问题记下来，马上告诉团队尽快补上资料好吗？🥰",
+    "_turn_index": 1,
+    "sample_type": "correct_refusal",
+    "is_evaluable": true,
+    "classification_reason": "疑似拒答(待P4核验): 无文档引用(refs=False,rel_docs=False), 无具体事实, 非greeting模板",
+    "classification_confidence": "medium",
+    "_refusal_signals": {
+      "no_docs": true,
+      "no_facts": true,
+      "is_greeting": false
+    }
+  },
+  {
+    "unit_id": "157460297370595080-1",
+    "session_id": "157460297370595080",
+    "question_raw": "永明指定同居固定伴侣作为受益人，这个具体定义有吗？只需身份证号码即可设定受益人吗？",
+    "source_message_ids": [
+      "157460321764667144"
+    ],
+    "is_substantive": true,
+    "context_company": "永明金融",
+    "context_product": null,
+    "is_context_inferred": false,
+    "inference_basis": null,
+    "_session_company_names": [
+      "永明金融"
+    ],
+    "_session_product_names": [],
+    "_assistant_product": null,
+    "_assistant_has_response": true,
+    "_assistant_content_preview": "翻车啦！🚧 正在全力抢修，请给小飞飞一个重新启动的机会！",
+    "_turn_index": 1,
+    "sample_type": "correct_refusal",
+    "is_evaluable": true,
+    "classification_reason": "疑似拒答(待P4核验): 无文档引用(refs=False,rel_docs=False), 无具体事实, 非greeting模板",
+    "classification_confidence": "medium",
+    "_refusal_signals": {
+      "no_docs": true,
+      "no_facts": true,
+      "is_greeting": false
+    }
+  },
+  {
+    "unit_id": "157460544398323464-1",
+    "session_id": "157460544398323464",
+    "question_raw": "永明指定同居固定伴侣作为受益人，这个具体定义有吗？",
+    "source_message_ids": [
+      "157460565873159944"
+    ],
+    "is_substantive": true,
+    "context_company": "永明金融",
+    "context_product": null,
+    "is_context_inferred": false,
+    "inference_basis": null,
+    "_session_company_names": [
+      "永明金融"
+    ],
+    "_session_product_names": [],
+    "_assistant_product": null,
+    "_assistant_has_response": true,
+    "_assistant_content_preview": "翻车啦！🚧 正在全力抢修，请给小飞飞一个重新启动的机会！",
+    "_turn_index": 1,
+    "sample_type": "correct_refusal",
+    "is_evaluable": true,
+    "classification_reason": "疑似拒答(待P4核验): 无文档引用(refs=False,rel_docs=False), 无具体事实, 非greeting模板",
+    "classification_confidence": "medium",
+    "_refusal_signals": {
+      "no_docs": true,
+      "no_facts": true,
+      "is_greeting": false
+    }
+  },
+  {
+    "unit_id": "157468576389820168-1",
+    "session_id": "157468576389820168",
+    "question_raw": "安盛的盛利2折扣",
+    "source_message_ids": [
+      "157468601622753032"
+    ],
+    "is_substantive": true,
+    "context_company": "安盛保险",
+    "context_product": null,
+    "is_context_inferred": false,
+    "inference_basis": null,
+    "_session_company_names": [
+      "安盛保险"
+    ],
+    "_session_product_names": [],
+    "_assistant_product": null,
+    "_assistant_has_response": true,
+    "_assistant_content_preview": "翻车啦！🚧 正在全力抢修，请给小飞飞一个重新启动的机会！",
+    "_turn_index": 1,
+    "sample_type": "correct_refusal",
+    "is_evaluable": true,
+    "classification_reason": "疑似拒答(待P4核验): 无文档引用(refs=False,rel_docs=False), 无具体事实, 非greeting模板",
+    "classification_confidence": "medium",
+    "_refusal_signals": {
+      "no_docs": true,
+      "no_facts": true,
+      "is_greeting": false
+    }
+  },
+  {
+    "unit_id": "157468718710943496-1",
+    "session_id": "157468718710943496",
+    "question_raw": "安盛的盛利2优惠",
+    "source_message_ids": [
+      "157468738289954568"
+    ],
+    "is_substantive": true,
+    "context_company": "安盛保险",
+    "context_product": null,
+    "is_context_inferred": false,
+    "inference_basis": null,
+    "_session_company_names": [
+      "安盛保险"
+    ],
+    "_session_product_names": [],
+    "_assistant_product": null,
+    "_assistant_has_response": true,
+    "_assistant_content_preview": "呜呜，小飞飞刚才大脑断片了... 🧠 正在紧急重启中，等等我嘛！",
+    "_turn_index": 1,
+    "sample_type": "correct_refusal",
+    "is_evaluable": true,
+    "classification_reason": "疑似拒答(待P4核验): 无文档引用(refs=False,rel_docs=False), 无具体事实, 非greeting模板",
+    "classification_confidence": "medium",
+    "_refusal_signals": {
+      "no_docs": true,
+      "no_facts": true,
+      "is_greeting": false
+    }
+  },
+  {
+    "unit_id": "157473777830106405-1",
+    "session_id": "157473777830106405",
+    "question_raw": "友邦环宇盈活 整付保单的投保优惠",
+    "source_message_ids": [
+      "157473808230421797"
+    ],
+    "is_substantive": true,
+    "context_company": "友邦保险",
+    "context_product": null,
+    "is_context_inferred": false,
+    "inference_basis": null,
+    "_session_company_names": [
+      "友邦保险"
+    ],
+    "_session_product_names": [],
+    "_assistant_product": null,
+    "_assistant_has_response": true,
+    "_assistant_content_preview": "呜呜，小飞飞刚才大脑断片了... 🧠 正在紧急重启中，等等我嘛！",
+    "_turn_index": 1,
+    "sample_type": "correct_refusal",
+    "is_evaluable": true,
+    "classification_reason": "疑似拒答(待P4核验): 无文档引用(refs=False,rel_docs=False), 无具体事实, 非greeting模板",
+    "classification_confidence": "medium",
+    "_refusal_signals": {
+      "no_docs": true,
+      "no_facts": true,
+      "is_greeting": false
+    }
+  },
+  {
+    "unit_id": "157476752195622181-1",
+    "session_id": "157476752195622181",
+    "question_raw": "顽童富饶万家投保一年后可以转换非可保利益的持有人吗？",
+    "source_message_ids": [
+      "157476804909634853"
+    ],
+    "is_substantive": true,
+    "context_company": null,
+    "context_product": null,
+    "is_context_inferred": false,
+    "inference_basis": null,
+    "_session_company_names": [],
+    "_session_product_names": [],
+    "_assistant_product": null,
+    "_assistant_has_response": true,
+    "_assistant_content_preview": "翻车啦！🚧 正在全力抢修，请给小飞飞一个重新启动的机会！",
+    "_turn_index": 1,
+    "sample_type": "correct_refusal",
+    "is_evaluable": true,
+    "classification_reason": "疑似拒答(待P4核验): 无文档引用(refs=False,rel_docs=False), 无具体事实, 非greeting模板",
+    "classification_confidence": "medium",
+    "_refusal_signals": {
+      "no_docs": true,
+      "no_facts": true,
+      "is_greeting": false
+    }
+  },
+  {
+    "unit_id": "157477125975217445-1",
+    "session_id": "157477125975217445",
+    "question_raw": "友邦的加了医疗的重疾价格是否会比单独重疾高",
+    "source_message_ids": [
+      "157477161693910309"
+    ],
+    "is_substantive": true,
+    "context_company": "友邦保险",
+    "context_product": null,
+    "is_context_inferred": false,
+    "inference_basis": null,
+    "_session_company_names": [
+      "友邦保险"
+    ],
+    "_session_product_names": [],
+    "_assistant_product": null,
+    "_assistant_has_response": true,
+    "_assistant_content_preview": "哎呀，系统刚才偷偷打了个盹 💤，我这就把它抓回来干活！",
+    "_turn_index": 1,
+    "sample_type": "correct_refusal",
+    "is_evaluable": true,
+    "classification_reason": "疑似拒答(待P4核验): 无文档引用(refs=False,rel_docs=False), 无具体事实, 非greeting模板",
+    "classification_confidence": "medium",
+    "_refusal_signals": {
+      "no_docs": true,
+      "no_facts": true,
+      "is_greeting": false
+    }
+  },
+  {
+    "unit_id": "157479380581389605-1",
+    "session_id": "157479380581389605",
+    "question_raw": "各保司的高端医疗产品中，有哪些是有全家赔偿额度的",
+    "source_message_ids": [
+      "157479409589196069"
+    ],
+    "is_substantive": true,
+    "context_company": null,
+    "context_product": null,
+    "is_context_inferred": false,
+    "inference_basis": null,
+    "_session_company_names": [],
+    "_session_product_names": [],
+    "_assistant_product": null,
+    "_assistant_has_response": true,
+    "_assistant_content_preview": "哎呀，系统刚才偷偷打了个盹 💤，我这就把它抓回来干活！",
+    "_turn_index": 1,
+    "sample_type": "correct_refusal",
+    "is_evaluable": true,
+    "classification_reason": "疑似拒答(待P4核验): 无文档引用(refs=False,rel_docs=False), 无具体事实, 非greeting模板",
+    "classification_confidence": "medium",
+    "_refusal_signals": {
+      "no_docs": true,
+      "no_facts": true,
+      "is_greeting": false
+    }
+  },
+  {
+    "unit_id": "157497259775268133-1",
+    "session_id": "157497259775268133",
+    "question_raw": "顽童富饶万家投保一年后可以转换非可保利益的持有人吗？",
+    "source_message_ids": [
+      "157497290997667109"
+    ],
+    "is_substantive": true,
+    "context_company": null,
+    "context_product": null,
+    "is_context_inferred": false,
+    "inference_basis": null,
+    "_session_company_names": [],
+    "_session_product_names": [],
+    "_assistant_product": null,
+    "_assistant_has_response": true,
+    "_assistant_content_preview": "哎呀，系统刚才偷偷打了个盹 💤，我这就把它抓回来干活！",
+    "_turn_index": 1,
+    "sample_type": "correct_refusal",
+    "is_evaluable": true,
+    "classification_reason": "疑似拒答(待P4核验): 无文档引用(refs=False,rel_docs=False), 无具体事实, 非greeting模板",
+    "classification_confidence": "medium",
+    "_refusal_signals": {
+      "no_docs": true,
+      "no_facts": true,
+      "is_greeting": false
+    }
+  },
+  {
+    "unit_id": "157502286245958949-1",
+    "session_id": "157502286245958949",
+    "question_raw": "信守明天保单暂托条款",
+    "source_message_ids": [
+      "157502324867110181"
+    ],
+    "is_substantive": true,
+    "context_company": null,
+    "context_product": null,
+    "is_context_inferred": false,
+    "inference_basis": null,
+    "_session_company_names": [],
+    "_session_product_names": [],
+    "_assistant_product": null,
+    "_assistant_has_response": true,
+    "_assistant_content_preview": "哎呀，系统刚才偷偷打了个盹 💤，我这就把它抓回来干活！",
+    "_turn_index": 1,
+    "sample_type": "correct_refusal",
+    "is_evaluable": true,
+    "classification_reason": "疑似拒答(待P4核验): 无文档引用(refs=False,rel_docs=False), 无具体事实, 非greeting模板",
+    "classification_confidence": "medium",
+    "_refusal_signals": {
+      "no_docs": true,
+      "no_facts": true,
+      "is_greeting": false
+    }
+  },
+  {
+    "unit_id": "157502402428179749-1",
+    "session_id": "157502402428179749",
+    "question_raw": "活然人生产品介绍",
+    "source_message_ids": [
+      "157502453447693605"
+    ],
+    "is_substantive": true,
+    "context_company": null,
+    "context_product": null,
+    "is_context_inferred": false,
+    "inference_basis": null,
+    "_session_company_names": [],
+    "_session_product_names": [],
+    "_assistant_product": null,
+    "_assistant_has_response": true,
+    "_assistant_content_preview": "捕捉到一个野生 Bug！👾 小飞飞正在施展‘一键修护大法’，马上回来！",
+    "_turn_index": 1,
+    "sample_type": "correct_refusal",
+    "is_evaluable": true,
+    "classification_reason": "疑似拒答(待P4核验): 无文档引用(refs=False,rel_docs=False), 无具体事实, 非greeting模板",
+    "classification_confidence": "medium",
+    "_refusal_signals": {
+      "no_docs": true,
+      "no_facts": true,
+      "is_greeting": false
+    }
+  },
+  {
+    "unit_id": "157504952430794021-1",
+    "session_id": "157504952430794021",
+    "question_raw": "对比各个公司的保单暂托条款",
+    "source_message_ids": [
+      "157504987579061541"
+    ],
+    "is_substantive": true,
+    "context_company": null,
+    "context_product": null,
+    "is_context_inferred": false,
+    "inference_basis": null,
+    "_session_company_names": [],
+    "_session_product_names": [],
+    "_assistant_product": null,
+    "_assistant_has_response": true,
+    "_assistant_content_preview": "呜呜，小飞飞刚才大脑断片了... 🧠 正在紧急重启中，等等我嘛！",
+    "_turn_index": 1,
+    "sample_type": "correct_refusal",
+    "is_evaluable": true,
+    "classification_reason": "疑似拒答(待P4核验): 无文档引用(refs=False,rel_docs=False), 无具体事实, 非greeting模板",
+    "classification_confidence": "medium",
+    "_refusal_signals": {
+      "no_docs": true,
+      "no_facts": true,
+      "is_greeting": false
+    }
+  },
+  {
+    "unit_id": "157505229338744101-1",
+    "session_id": "157505229338744101",
+    "question_raw": "两年缴的启航创富可以设定几个后备被保人",
+    "source_message_ids": [
+      "157505260477256997"
+    ],
+    "is_substantive": true,
+    "context_company": null,
+    "context_product": null,
+    "is_context_inferred": false,
+    "inference_basis": null,
+    "_session_company_names": [],
+    "_session_product_names": [],
+    "_assistant_product": null,
+    "_assistant_has_response": true,
+    "_assistant_content_preview": "哎呀，系统刚才偷偷打了个盹 💤，我这就把它抓回来干活！",
+    "_turn_index": 1,
+    "sample_type": "correct_refusal",
+    "is_evaluable": true,
+    "classification_reason": "疑似拒答(待P4核验): 无文档引用(refs=False,rel_docs=False), 无具体事实, 非greeting模板",
+    "classification_confidence": "medium",
+    "_refusal_signals": {
+      "no_docs": true,
+      "no_facts": true,
+      "is_greeting": false
+    }
+  },
+  {
+    "unit_id": "157624183642166565-1",
+    "session_id": "157624183642166565",
+    "question_raw": "目前市面上保证收益最高的港险产品有哪些",
+    "source_message_ids": [
+      "157624423287919909"
+    ],
+    "is_substantive": true,
+    "context_company": null,
+    "context_product": null,
+    "is_context_inferred": false,
+    "inference_basis": null,
+    "_session_company_names": [],
+    "_session_product_names": [],
+    "_assistant_product": null,
+    "_assistant_has_response": true,
+    "_assistant_content_preview": "哎呀，系统刚才偷偷打了个盹 💤，我这就把它抓回来干活！",
+    "_turn_index": 1,
+    "sample_type": "correct_refusal",
+    "is_evaluable": true,
+    "classification_reason": "疑似拒答(待P4核验): 无文档引用(refs=False,rel_docs=False), 无具体事实, 非greeting模板",
+    "classification_confidence": "medium",
+    "_refusal_signals": {
+      "no_docs": true,
+      "no_facts": true,
+      "is_greeting": false
+    }
+  },
+  {
+    "unit_id": "158358981981555788-1",
+    "session_id": "158358981981555788",
+    "question_raw": "PDA是什么",
+    "source_message_ids": [
+      "158358992467315788"
+    ],
+    "is_substantive": true,
+    "context_company": null,
+    "context_product": null,
+    "is_context_inferred": false,
+    "inference_basis": null,
+    "_session_company_names": [],
+    "_session_product_names": [],
+    "_assistant_product": null,
+    "_assistant_has_response": true,
+    "_assistant_content_preview": "PDA 是“Personal Digital Assistant”（个人数字助理）的缩写，以前常指掌上电脑这类移动设备 😊  \n不过在保险行业里，PDA 有时也指代“保单信息采集终端”或某些公司内部使用的移动展业工具（比如用于现场录单、拍照上传、电子签名等）～  \n\n你是看到哪个场景提到 PDA 呢？我可以帮你更精准地解释 🤓  \n（悄悄说：我最擅长聊保险相关术语和展业小技巧哦～）",
+    "_turn_index": 1,
+    "sample_type": "correct_refusal",
+    "is_evaluable": true,
+    "classification_reason": "疑似拒答(待P4核验): 无文档引用(refs=False,rel_docs=False), 无具体事实, 非greeting模板",
+    "classification_confidence": "medium",
+    "_refusal_signals": {
+      "no_docs": true,
+      "no_facts": true,
+      "is_greeting": false
+    }
+  },
+  {
+    "unit_id": "158456346725895244-1",
+    "session_id": "158456346725895244",
+    "question_raw": "友邦环宇Y活，姐姐可以给弟弟买么？  同父异母的关系",
+    "source_message_ids": [
+      "158456389608459340"
+    ],
+    "is_substantive": true,
+    "context_company": "友邦保险",
+    "context_product": "环宇盈活储蓄保险计划",
+    "is_context_inferred": false,
+    "inference_basis": null,
+    "_session_company_names": [
+      "友邦保险"
+    ],
+    "_session_product_names": [],
+    "_assistant_product": "环宇盈活储蓄保险计划",
+    "_assistant_has_response": true,
+    "_assistant_content_preview": "哎呀，我暂时没办法准确回答哦～但我刚刚帮你翻了好多资料，查了“友邦环宇Y活”能不能让姐姐给同父异母的弟弟买，也筛了友邦的产品说明，可惜还没找到明确答案呢🥺  \n要不你再多告诉我一点细节？我继续帮你找找看～或者我把这个问题记下来，马上告诉团队尽快补上资料好吗？💪",
+    "_turn_index": 1,
+    "sample_type": "correct_refusal",
+    "is_evaluable": true,
+    "classification_reason": "疑似拒答(待P4核验): 无文档引用(refs=False,rel_docs=False), 无具体事实, 非greeting模板",
+    "classification_confidence": "medium",
+    "_refusal_signals": {
+      "no_docs": true,
+      "no_facts": true,
+      "is_greeting": false
+    }
+  },
+  {
+    "unit_id": "158643143611305036-1",
+    "session_id": "158643143611305036",
+    "question_raw": "客户32岁，女，2年前肺炎住院，已治愈。投保友邦爱伴航，能标准承保吗？",
+    "source_message_ids": [
+      "158643201475923020"
+    ],
+    "is_substantive": true,
+    "context_company": "友邦保险",
+    "context_product": "爱伴航保险计划2",
+    "is_context_inferred": false,
+    "inference_basis": null,
+    "_session_company_names": [
+      "友邦保险"
+    ],
+    "_session_product_names": [],
+    "_assistant_product": "爱伴航保险计划2",
+    "_assistant_has_response": true,
+    "_assistant_content_preview": "哎呀，我暂时没办法准确回答哦～但我刚刚帮你翻了好多资料，包括友邦的“爱伴航”产品和肺炎病史相关的核保指引，都没找到特别匹配的内容 😅  \n要不你再多告诉我一点细节？比如客户当时的诊断报告或复查结果？我继续帮你找找看～或者我先记下来，马上让团队补上这块资料好吗？💪",
+    "_turn_index": 1,
+    "sample_type": "correct_refusal",
+    "is_evaluable": true,
+    "classification_reason": "疑似拒答(待P4核验): 无文档引用(refs=False,rel_docs=False), 无具体事实, 非greeting模板",
+    "classification_confidence": "medium",
+    "_refusal_signals": {
+      "no_docs": true,
+      "no_facts": true,
+      "is_greeting": false
+    }
+  },
+  {
+    "unit_id": "159067453127707721-1",
+    "session_id": "159067453127707721",
+    "question_raw": "太平洋保险的鑫相伴这款产品，目前还在售卖吗？是否有任何保费回赠等优惠",
+    "source_message_ids": [
+      "159067501043436617"
+    ],
+    "is_substantive": true,
+    "context_company": "中国太平",
+    "context_product": null,
+    "is_context_inferred": false,
+    "inference_basis": null,
+    "_session_company_names": [
+      "太平洋人寿"
+    ],
+    "_session_product_names": [],
+    "_assistant_product": null,
+    "_assistant_has_response": true,
+    "_assistant_content_preview": "我暂时没办法准确回答哦～但我真的帮你翻了好多资料，查了太平洋人寿“鑫相伴”现在在不在卖、有没有返钱或打折这些优惠，还特别筛了最新月份的信息呢！要不你再多告诉我一点细节？我继续帮你找找看～或者我把这个问题记下来，马上告诉我们团队尽快补上资料好吗？🥰",
+    "_turn_index": 1,
+    "sample_type": "correct_refusal",
+    "is_evaluable": true,
+    "classification_reason": "疑似拒答(待P4核验): 无文档引用(refs=False,rel_docs=False), 无具体事实, 非greeting模板",
+    "classification_confidence": "medium",
+    "_refusal_signals": {
+      "no_docs": true,
+      "no_facts": true,
+      "is_greeting": false
+    }
+  },
+  {
+    "unit_id": "159172331531455561-1",
+    "session_id": "159172331531455561",
+    "question_raw": "科创动力计划书系统里 安达安心退休 在哪里可以修改退休领取的开始年龄？",
+    "source_message_ids": [
+      "159172347167820873"
+    ],
+    "is_substantive": true,
+    "context_company": "安达人寿",
+    "context_product": "安心退休年金计划",
+    "is_context_inferred": false,
+    "inference_basis": null,
+    "_session_company_names": [
+      "安达人寿"
+    ],
+    "_session_product_names": [
+      "安心退休年金计划"
+    ],
+    "_assistant_product": null,
+    "_assistant_has_response": true,
+    "_assistant_content_preview": "哎呀，系统刚才偷偷打了个盹 💤，我这就把它抓回来干活！",
+    "_turn_index": 1,
+    "sample_type": "correct_refusal",
+    "is_evaluable": true,
+    "classification_reason": "疑似拒答(待P4核验): 无文档引用(refs=False,rel_docs=False), 无具体事实, 非greeting模板",
+    "classification_confidence": "medium",
+    "_refusal_signals": {
+      "no_docs": true,
+      "no_facts": true,
+      "is_greeting": false
+    }
+  },
+  {
+    "unit_id": "159342448894594110-1",
+    "session_id": "159342448894594110",
+    "question_raw": "国寿香港客户服务手册",
+    "source_message_ids": [
+      "159342535095929918"
+    ],
+    "is_substantive": true,
+    "context_company": "中国人寿",
+    "context_product": "健康常伴医疗保险计划",
+    "is_context_inferred": false,
+    "inference_basis": null,
+    "_session_company_names": [
+      "中国人寿"
+    ],
+    "_session_product_names": [],
+    "_assistant_product": "健康常伴医疗保险计划",
+    "_assistant_has_response": true,
+    "_assistant_content_preview": "哎呀，我暂时没办法准确回答哦～  \n刚刚帮你翻了好多资料，比如“中国人寿香港客户服务手册”“中寿香港服务指南”这些关键词都查过啦，但还没找到合适的文件 😅  \n要不你再多告诉我一点细节？我继续帮你找找看～或者我把这个问题记下来，马上告诉团队尽快补上资料好吗？💪",
+    "_turn_index": 1,
+    "sample_type": "correct_refusal",
+    "is_evaluable": true,
+    "classification_reason": "疑似拒答(待P4核验): 无文档引用(refs=False,rel_docs=False), 无具体事实, 非greeting模板",
+    "classification_confidence": "medium",
+    "_refusal_signals": {
+      "no_docs": true,
+      "no_facts": true,
+      "is_greeting": false
+    }
+  },
+  {
+    "unit_id": "159473446386977862-1",
+    "session_id": "159473446386977862",
+    "question_raw": "宏利周六缴费处可以缴费吗",
+    "source_message_ids": [
+      "159473531531349062"
+    ],
+    "is_substantive": true,
+    "context_company": "宏利保险",
+    "context_product": "宏利投资计划2",
+    "is_context_inferred": false,
+    "inference_basis": null,
+    "_session_company_names": [
+      "宏利保险"
+    ],
+    "_session_product_names": [],
+    "_assistant_product": "宏利投资计划2",
+    "_assistant_has_response": true,
+    "_assistant_content_preview": "哎呀，我暂时没办法准确回答哦～  \n我刚帮你翻了好多资料，查了宏利周六能不能去缴费处缴费的事儿，但还没找到明确信息 😅  \n要不你再多告诉我一点细节？我继续帮你找找看～或者我先记下来，马上让团队补上这块资料好吗？🥰",
+    "_turn_index": 1,
+    "sample_type": "correct_refusal",
+    "is_evaluable": true,
+    "classification_reason": "疑似拒答(待P4核验): 无文档引用(refs=False,rel_docs=False), 无具体事实, 非greeting模板",
+    "classification_confidence": "medium",
+    "_refusal_signals": {
+      "no_docs": true,
+      "no_facts": true,
+      "is_greeting": false
+    }
+  },
+  {
+    "unit_id": "159527635335040070-1",
+    "session_id": "159527635335040070",
+    "question_raw": "爱伴航付款人保障附加契約内容",
+    "source_message_ids": [
+      "159527709490334790"
+    ],
+    "is_substantive": true,
+    "context_company": "友邦保险",
+    "context_product": null,
+    "is_context_inferred": false,
+    "inference_basis": null,
+    "_session_company_names": [
+      "友邦保险"
+    ],
+    "_session_product_names": [],
+    "_assistant_product": null,
+    "_assistant_has_response": true,
+    "_assistant_content_preview": "翻车啦！🚧 正在全力抢修，请给小飞飞一个重新启动的机会！",
+    "_turn_index": 1,
+    "sample_type": "correct_refusal",
+    "is_evaluable": true,
+    "classification_reason": "疑似拒答(待P4核验): 无文档引用(refs=False,rel_docs=False), 无具体事实, 非greeting模板",
+    "classification_confidence": "medium",
+    "_refusal_signals": {
+      "no_docs": true,
+      "no_facts": true,
+      "is_greeting": false
+    }
+  },
+  {
+    "unit_id": "159975639447817296-1",
+    "session_id": "159975639447817296",
+    "question_raw": "安盛的终身寿险Whole life",
+    "source_message_ids": [
+      "159975710516104272"
+    ],
+    "is_substantive": true,
+    "context_company": "安盛保险",
+    "context_product": null,
+    "is_context_inferred": false,
+    "inference_basis": null,
+    "_session_company_names": [
+      "安盛保险"
+    ],
+    "_session_product_names": [],
+    "_assistant_product": null,
+    "_assistant_has_response": true,
+    "_assistant_content_preview": "捕捉到一个野生 Bug！👾 小飞飞正在施展‘一键修护大法’，马上回来！",
+    "_turn_index": 1,
+    "sample_type": "correct_refusal",
+    "is_evaluable": true,
+    "classification_reason": "疑似拒答(待P4核验): 无文档引用(refs=False,rel_docs=False), 无具体事实, 非greeting模板",
+    "classification_confidence": "medium",
+    "_refusal_signals": {
+      "no_docs": true,
+      "no_facts": true,
+      "is_greeting": false
+    }
+  },
+  {
+    "unit_id": "160364767310040144-1",
+    "session_id": "160364767310040144",
+    "question_raw": "AWM可以销售刚才你说的保柏和信诺的这两款医疗险吗",
+    "source_message_ids": [
+      "160364873023278160"
+    ],
+    "is_substantive": true,
+    "context_company": "保柏(亚洲)",
+    "context_product": "保柏自愿医保计划",
+    "is_context_inferred": false,
+    "inference_basis": null,
+    "_session_company_names": [
+      "保柏(亚洲)",
+      "信诺保险"
+    ],
+    "_session_product_names": [],
+    "_assistant_product": "保柏自愿医保计划",
+    "_assistant_has_response": true,
+    "_assistant_content_preview": "哎呀，我暂时没办法准确回答哦～刚才我帮你翻了好多资料，查了保柏和信诺的医疗险，也看了AWM相关的销售资格，但还没找到明确的答案呢 😅  \n要不你再多告诉我一点细节？我继续帮你找找看～或者我把这个问题记下来，马上告诉团队尽快补上资料好吗？🥰",
+    "_turn_index": 1,
+    "sample_type": "correct_refusal",
+    "is_evaluable": true,
+    "classification_reason": "疑似拒答(待P4核验): 无文档引用(refs=False,rel_docs=False), 无具体事实, 非greeting模板",
+    "classification_confidence": "medium",
+    "_refusal_signals": {
+      "no_docs": true,
+      "no_facts": true,
+      "is_greeting": false
+    }
+  },
+  {
+    "unit_id": "160671607591849034-1",
+    "session_id": "160671607591849034",
+    "question_raw": "X染色体三体综合症能投保保诚诚保一生吗？",
+    "source_message_ids": [
+      "160671670925839434"
+    ],
+    "is_substantive": true,
+    "context_company": "保诚保险",
+    "context_product": "诚保一生危疾保",
+    "is_context_inferred": false,
+    "inference_basis": null,
+    "_session_company_names": [
+      "保诚保险"
+    ],
+    "_session_product_names": [],
+    "_assistant_product": "诚保一生危疾保",
+    "_assistant_has_response": true,
+    "_assistant_content_preview": "哎呀，这个问题我暂时没办法准确回答你哦～  \n我刚刚帮你翻了保诚的资料库，还特别查了“诚保一生”和“X染色体三体综合征”相关的部分，但没找到明确说明。  \n要不你再多告诉我一点细节？我继续帮你找找看～或者我先记下来，马上让团队补上这块资料好吗？🥰",
+    "_turn_index": 1,
+    "sample_type": "correct_refusal",
+    "is_evaluable": true,
+    "classification_reason": "疑似拒答(待P4核验): 无文档引用(refs=False,rel_docs=False), 无具体事实, 非greeting模板",
+    "classification_confidence": "medium",
+    "_refusal_signals": {
+      "no_docs": true,
+      "no_facts": true,
+      "is_greeting": false
+    }
+  },
+  {
+    "unit_id": "160954427581165305-1",
+    "session_id": "160954427581165305",
+    "question_raw": "请给我爱伴航和诚保一生对强直性脊柱炎的理赔标准和定义",
+    "source_message_ids": [
+      "160954499689639673"
+    ],
+    "is_substantive": true,
+    "context_company": "友邦保险",
+    "context_product": "爱伴航保险计划2",
+    "is_context_inferred": false,
+    "inference_basis": null,
+    "_session_company_names": [
+      "友邦保险",
+      "保诚保险"
+    ],
+    "_session_product_names": [],
+    "_assistant_product": "爱伴航保险计划2",
+    "_assistant_has_response": true,
+    "_assistant_content_preview": "哎呀，我暂时没办法准确回答哦～  \n刚刚帮你翻了友邦和保诚的资料库，也按“爱伴航”“诚保一生”“强直性脊柱炎”这些关键词仔仔细细找了一圈，可惜还没找到明确的理赔标准说明 😅  \n要不你再多告诉我一点细节？我继续帮你找找看～或者我把这个问题记下来，马上通知我们团队尽快补上资料好吗？🥰",
+    "_turn_index": 1,
+    "sample_type": "correct_refusal",
+    "is_evaluable": true,
+    "classification_reason": "疑似拒答(待P4核验): 无文档引用(refs=False,rel_docs=False), 无具体事实, 非greeting模板",
+    "classification_confidence": "medium",
+    "_refusal_signals": {
+      "no_docs": true,
+      "no_facts": true,
+      "is_greeting": false
+    }
+  },
+  {
+    "unit_id": "164113907143709884-1",
+    "session_id": "164113907143709884",
+    "question_raw": "请帮我查询一下安盛盛利II 5年缴和2年缴目前的优惠政策",
+    "source_message_ids": [
+      "164113919156196540"
+    ],
+    "is_substantive": true,
+    "context_company": "安盛保险",
+    "context_product": null,
+    "is_context_inferred": false,
+    "inference_basis": null,
+    "_session_company_names": [
+      "安盛保险"
+    ],
+    "_session_product_names": [],
+    "_assistant_product": null,
+    "_assistant_has_response": true,
+    "_assistant_content_preview": "哎呀，系统刚才偷偷打了个盹 💤，我这就把它抓回来干活！",
+    "_turn_index": 1,
+    "sample_type": "correct_refusal",
+    "is_evaluable": true,
+    "classification_reason": "疑似拒答(待P4核验): 无文档引用(refs=False,rel_docs=False), 无具体事实, 非greeting模板",
+    "classification_confidence": "medium",
+    "_refusal_signals": {
+      "no_docs": true,
+      "no_facts": true,
+      "is_greeting": false
+    }
+  },
+  {
+    "unit_id": "164114621953774780-1",
+    "session_id": "164114621953774780",
+    "question_raw": "请帮我查询一下安盛盛利II 5年缴和2年缴目前的优惠政策",
+    "source_message_ids": [
+      "164114651733333180"
+    ],
+    "is_substantive": true,
+    "context_company": "安盛保险",
+    "context_product": null,
+    "is_context_inferred": false,
+    "inference_basis": null,
+    "_session_company_names": [
+      "安盛保险"
+    ],
+    "_session_product_names": [],
+    "_assistant_product": null,
+    "_assistant_has_response": true,
+    "_assistant_content_preview": "我暂时没办法准确回答哦～但我真的帮你翻了好多资料，查了安盛最近几个月的优惠信息，也试了各种关键词组合，还是没找到盛利II五年缴和两年缴的具体政策 😅  \n要不你再多告诉我一点细节？我继续帮你找找看～或者我把这个问题记下来，马上通知我们团队尽快补上资料好吗？💪",
+    "_turn_index": 1,
+    "sample_type": "correct_refusal",
+    "is_evaluable": true,
+    "classification_reason": "疑似拒答(待P4核验): 无文档引用(refs=False,rel_docs=False), 无具体事实, 非greeting模板",
+    "classification_confidence": "medium",
+    "_refusal_signals": {
+      "no_docs": true,
+      "no_facts": true,
+      "is_greeting": false
+    }
+  },
+  {
+    "unit_id": "164114719462954172-1",
+    "session_id": "164114719462954172",
+    "question_raw": "周大福匠心飞越不同缴费期的起投金额是多少",
+    "source_message_ids": [
+      "164114744863659196"
+    ],
+    "is_substantive": true,
+    "context_company": "周大福人寿",
+    "context_product": null,
+    "is_context_inferred": false,
+    "inference_basis": null,
+    "_session_company_names": [
+      "周大福人寿"
+    ],
+    "_session_product_names": [],
+    "_assistant_product": null,
+    "_assistant_has_response": true,
+    "_assistant_content_preview": "哎呀，我暂时没办法准确回答哦～刚才帮你翻了好多资料，也按“周大福匠心飞越”和缴费期、起投金额这些关键词认真找过啦，但还没找到具体数字 😅  \n要不你再多告诉我一点细节？我继续帮你找找看～或者我把这个问题记下来，马上告诉团队尽快补上资料好吗？💪",
+    "_turn_index": 1,
+    "sample_type": "correct_refusal",
+    "is_evaluable": true,
+    "classification_reason": "疑似拒答(待P4核验): 无文档引用(refs=False,rel_docs=False), 无具体事实, 非greeting模板",
+    "classification_confidence": "medium",
+    "_refusal_signals": {
+      "no_docs": true,
+      "no_facts": true,
+      "is_greeting": false
+    }
+  },
+  {
+    "unit_id": "164414312658530080-1",
+    "session_id": "164414312658530080",
+    "question_raw": "世代悦享3是哪家保司的",
+    "source_message_ids": [
+      "164414450198146848"
+    ],
+    "is_substantive": true,
+    "context_company": null,
+    "context_product": "活然人生保险计划",
+    "is_context_inferred": false,
+    "inference_basis": null,
+    "_session_company_names": [],
+    "_session_product_names": [],
+    "_assistant_product": "活然人生保险计划",
+    "_assistant_has_response": true,
+    "_assistant_content_preview": "哎呀，我暂时没办法准确回答哦～  \n我刚刚帮你翻了好多资料，也试着用不同说法找“世代悦享3”是哪家保司的，但都没找到匹配的内容 😅  \n要不你再多告诉我一点细节？我继续帮你找找看～或者我把这个问题记下来，马上告诉团队尽快补上资料好吗？🥰",
+    "_turn_index": 1,
+    "sample_type": "correct_refusal",
+    "is_evaluable": true,
+    "classification_reason": "疑似拒答(待P4核验): 无文档引用(refs=False,rel_docs=False), 无具体事实, 非greeting模板",
+    "classification_confidence": "medium",
+    "_refusal_signals": {
+      "no_docs": true,
+      "no_facts": true,
+      "is_greeting": false
+    }
+  },
+  {
+    "unit_id": "165405076385469609-1",
+    "session_id": "165405076385469609",
+    "question_raw": "能否给具体文件",
+    "source_message_ids": [
+      "165405090126009513"
+    ],
+    "is_substantive": true,
+    "context_company": null,
+    "context_product": null,
+    "is_context_inferred": false,
+    "inference_basis": null,
+    "_session_company_names": [],
+    "_session_product_names": [],
+    "_assistant_product": null,
+    "_assistant_has_response": true,
+    "_assistant_content_preview": "这个问题我可能不太擅长 🙁 我主要帮大家解答保险相关的问题～  \n你是指哪类文件呢？比如保单模板、投保流程文档，还是产品条款？😊 可以告诉我具体需求，我来帮你梳理～",
+    "_turn_index": 1,
+    "sample_type": "correct_refusal",
+    "is_evaluable": true,
+    "classification_reason": "疑似拒答(待P4核验): 无文档引用(refs=False,rel_docs=False), 无具体事实, 非greeting模板",
+    "classification_confidence": "medium",
+    "_refusal_signals": {
+      "no_docs": true,
+      "no_facts": true,
+      "is_greeting": false
+    }
+  },
+  {
+    "unit_id": "165413534937683113-1",
+    "session_id": "165413534937683113",
+    "question_raw": "安盛挚爱保接受试管婴儿吗",
+    "source_message_ids": [
+      "165413601711002793"
+    ],
+    "is_substantive": true,
+    "context_company": "安盛保险",
+    "context_product": "挚保宝怀孕亲子保障",
+    "is_context_inferred": false,
+    "inference_basis": null,
+    "_session_company_names": [
+      "安盛保险"
+    ],
+    "_session_product_names": [],
+    "_assistant_product": "挚保宝怀孕亲子保障",
+    "_assistant_has_response": true,
+    "_assistant_content_preview": "哎呀，这个问题我暂时没办法准确回答你哦～  \n我刚刚翻了好多安盛的资料，也特别留意了“挚爱保”和“试管婴儿”相关的部分，但还没找到明确说明。  \n要不你再多告诉我一点细节？我继续帮你找找看～或者我先记下来，马上让团队补上这块资料好吗？🥰",
+    "_turn_index": 1,
+    "sample_type": "correct_refusal",
+    "is_evaluable": true,
+    "classification_reason": "疑似拒答(待P4核验): 无文档引用(refs=False,rel_docs=False), 无具体事实, 非greeting模板",
+    "classification_confidence": "medium",
+    "_refusal_signals": {
+      "no_docs": true,
+      "no_facts": true,
+      "is_greeting": false
+    }
+  },
+  {
+    "unit_id": "165991989387489061-1",
+    "session_id": "165991989387489061",
+    "question_raw": "周总，小飞飞是公司自研的 AI 保险条款问答机器人，使用方式：+ 直接提问，后续可按此操作使用。",
+    "source_message_ids": [
+      "165991989404266277"
+    ],
+    "is_substantive": true,
+    "context_company": null,
+    "context_product": "环宇盈活储蓄保险计划",
+    "is_context_inferred": false,
+    "inference_basis": null,
+    "_session_company_names": [],
+    "_session_product_names": [],
+    "_assistant_product": "环宇盈活储蓄保险计划",
+    "_assistant_has_response": true,
+    "_assistant_content_preview": "哎呀，我暂时没办法准确回答哦～  \n刚刚帮你翻了好多资料，也试着用不同关键词找“小飞飞”的使用方法，但还没找到特别对得上的内容 😅  \n要不你再多告诉我一点细节？我继续帮你找找看～或者我把这个问题记下来，马上告诉团队尽快补上资料好吗？🥰",
+    "_turn_index": 1,
+    "sample_type": "correct_refusal",
+    "is_evaluable": true,
+    "classification_reason": "疑似拒答(待P4核验): 无文档引用(refs=False,rel_docs=False), 无具体事实, 非greeting模板",
+    "classification_confidence": "medium",
+    "_refusal_signals": {
+      "no_docs": true,
+      "no_facts": true,
+      "is_greeting": false
+    }
+  },
+  {
+    "unit_id": "165992106005917477-1",
+    "session_id": "165992106005917477",
+    "question_raw": "小飞飞是公司自研的 AI 保险条款问答机器人，使用方式：+ 直接提问，后续可按此操作使用。",
+    "source_message_ids": [
+      "165992106022694693"
+    ],
+    "is_substantive": true,
+    "context_company": null,
+    "context_product": "环宇盈活储蓄保险计划",
+    "is_context_inferred": false,
+    "inference_basis": null,
+    "_session_company_names": [],
+    "_session_product_names": [],
+    "_assistant_product": "环宇盈活储蓄保险计划",
+    "_assistant_has_response": true,
+    "_assistant_content_preview": "哎呀，我暂时没办法准确回答哦～  \n刚刚帮你翻了好多资料，也试着用不同说法找“小飞飞”的使用方法，但还没找到特别匹配的内容 😅  \n要不你再多告诉我一点细节？我继续帮你找找看～或者我先记下来，马上让团队补上相关资料好吗？🥰",
+    "_turn_index": 1,
+    "sample_type": "correct_refusal",
+    "is_evaluable": true,
+    "classification_reason": "疑似拒答(待P4核验): 无文档引用(refs=False,rel_docs=False), 无具体事实, 非greeting模板",
+    "classification_confidence": "medium",
+    "_refusal_signals": {
+      "no_docs": true,
+      "no_facts": true,
+      "is_greeting": false
+    }
+  },
+  {
+    "unit_id": "166788087228165918-1",
+    "session_id": "166788087228165918",
+    "question_raw": "请问现在哪一家重疾险是怀着孕还可以投保的？妈妈已经过了28周还可以投吗",
+    "source_message_ids": [
+      "166788087244943134"
+    ],
+    "is_substantive": true,
+    "context_company": null,
+    "context_product": null,
+    "is_context_inferred": false,
+    "inference_basis": null,
+    "_session_company_names": [],
+    "_session_product_names": [],
+    "_assistant_product": null,
+    "_assistant_has_response": true,
+    "_assistant_content_preview": "哎呀，系统刚才偷偷打了个盹 💤，我这就把它抓回来干活！",
+    "_turn_index": 1,
+    "sample_type": "correct_refusal",
+    "is_evaluable": true,
+    "classification_reason": "疑似拒答(待P4核验): 无文档引用(refs=False,rel_docs=False), 无具体事实, 非greeting模板",
+    "classification_confidence": "medium",
+    "_refusal_signals": {
+      "no_docs": true,
+      "no_facts": true,
+      "is_greeting": false
+    }
+  },
+  {
+    "unit_id": "167138159409262366-1",
+    "session_id": "167138159409262366",
+    "question_raw": "目前市面上优惠最大的人寿险是哪一款？",
+    "source_message_ids": [
+      "167138159409327902"
+    ],
+    "is_substantive": true,
+    "context_company": null,
+    "context_product": null,
+    "is_context_inferred": false,
+    "inference_basis": null,
+    "_session_company_names": [],
+    "_session_product_names": [],
+    "_assistant_product": null,
+    "_assistant_has_response": true,
+    "_assistant_content_preview": "呜呜，小飞飞刚才大脑断片了... 🧠 正在紧急重启中，等等我嘛！",
+    "_turn_index": 1,
+    "sample_type": "correct_refusal",
+    "is_evaluable": true,
+    "classification_reason": "疑似拒答(待P4核验): 无文档引用(refs=False,rel_docs=False), 无具体事实, 非greeting模板",
+    "classification_confidence": "medium",
+    "_refusal_signals": {
+      "no_docs": true,
+      "no_facts": true,
+      "is_greeting": false
+    }
+  },
+  {
+    "unit_id": "167502427430350642-1",
+    "session_id": "167502427430350642",
+    "question_raw": "宏挚家传承2年期预缴利率",
+    "source_message_ids": [
+      "167502427447127858"
+    ],
+    "is_substantive": true,
+    "context_company": "宏利保险",
+    "context_product": null,
+    "is_context_inferred": false,
+    "inference_basis": null,
+    "_session_company_names": [
+      "宏利保险"
+    ],
+    "_session_product_names": [],
+    "_assistant_product": null,
+    "_assistant_has_response": true,
+    "_assistant_content_preview": "捕捉到一个野生 Bug！👾 小飞飞正在施展‘一键修护大法’，马上回来！",
+    "_turn_index": 1,
+    "sample_type": "correct_refusal",
+    "is_evaluable": true,
+    "classification_reason": "疑似拒答(待P4核验): 无文档引用(refs=False,rel_docs=False), 无具体事实, 非greeting模板",
+    "classification_confidence": "medium",
+    "_refusal_signals": {
+      "no_docs": true,
+      "no_facts": true,
+      "is_greeting": false
+    }
+  },
+  {
+    "unit_id": "167632594031111986-1",
+    "session_id": "167632594031111986",
+    "question_raw": "请问友邦环宇盈活5年缴的保费折扣",
+    "source_message_ids": [
+      "167632594047889202"
+    ],
+    "is_substantive": true,
+    "context_company": "友邦保险",
+    "context_product": null,
+    "is_context_inferred": false,
+    "inference_basis": null,
+    "_session_company_names": [
+      "友邦保险"
+    ],
+    "_session_product_names": [],
+    "_assistant_product": null,
+    "_assistant_has_response": true,
+    "_assistant_content_preview": "捕捉到一个野生 Bug！👾 小飞飞正在施展‘一键修护大法’，马上回来！",
+    "_turn_index": 1,
+    "sample_type": "correct_refusal",
+    "is_evaluable": true,
+    "classification_reason": "疑似拒答(待P4核验): 无文档引用(refs=False,rel_docs=False), 无具体事实, 非greeting模板",
+    "classification_confidence": "medium",
+    "_refusal_signals": {
+      "no_docs": true,
+      "no_facts": true,
+      "is_greeting": false
+    }
+  },
+  {
+    "unit_id": "167807108752895794-1",
+    "session_id": "167807108752895794",
+    "question_raw": "客户投保友邦加裕智倍保，现在确诊LADA，可否理赔？",
+    "source_message_ids": [
+      "167807108786450226"
+    ],
+    "is_substantive": true,
+    "context_company": "友邦保险",
+    "context_product": "智护癌症保",
+    "is_context_inferred": false,
+    "inference_basis": null,
+    "_session_company_names": [
+      "友邦保险"
+    ],
+    "_session_product_names": [
+      "多重智倍保",
+      "智护癌症保"
+    ],
+    "_assistant_product": "智护癌症保",
+    "_assistant_has_response": true,
+    "_assistant_content_preview": "哎呀，我暂时没办法准确回答哦～刚才帮你翻了好多资料，还特别查了友邦的“加裕智倍保”和LADA相关的理赔说明，但没找到匹配的内容 😅  \n要不你再多告诉我一点细节？我继续帮你找找看～或者我把这个问题记下来，马上告诉团队尽快补上资料好吗？💪",
+    "_turn_index": 1,
+    "sample_type": "correct_refusal",
+    "is_evaluable": true,
+    "classification_reason": "疑似拒答(待P4核验): 无文档引用(refs=False,rel_docs=False), 无具体事实, 非greeting模板",
+    "classification_confidence": "medium",
+    "_refusal_signals": {
+      "no_docs": true,
+      "no_facts": true,
+      "is_greeting": false
+    }
+  },
+  {
+    "unit_id": "167807323685809970-1",
+    "session_id": "167807323685809970",
+    "question_raw": "客户投保友邦加裕智倍保，现在确诊“成人晚发自身免疫性糖尿病”，可否理赔？",
+    "source_message_ids": [
+      "167807323702587186"
+    ],
+    "is_substantive": true,
+    "context_company": "友邦保险",
+    "context_product": "智护癌症保",
+    "is_context_inferred": false,
+    "inference_basis": null,
+    "_session_company_names": [
+      "友邦保险"
+    ],
+    "_session_product_names": [
+      "多重智倍保",
+      "自在自选危疾保",
+      "自选人身意外保险3",
+      "智护癌症保"
+    ],
+    "_assistant_product": "智护癌症保",
+    "_assistant_has_response": true,
+    "_assistant_content_preview": "哎呀，我暂时没办法准确回答哦～  \n我刚帮你翻了友邦的几款产品资料，还特别查了“加裕智倍保”和“成人晚发自身免疫性糖尿病”相关的理赔说明，但没找到匹配的内容 😅  \n要不你再多告诉我一点细节？我继续帮你找找看～或者我把这个问题记下来，马上告诉团队尽快补上资料好吗？🥰",
+    "_turn_index": 1,
+    "sample_type": "correct_refusal",
+    "is_evaluable": true,
+    "classification_reason": "疑似拒答(待P4核验): 无文档引用(refs=False,rel_docs=False), 无具体事实, 非greeting模板",
+    "classification_confidence": "medium",
+    "_refusal_signals": {
+      "no_docs": true,
+      "no_facts": true,
+      "is_greeting": false
+    }
+  }
+]

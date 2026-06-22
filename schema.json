@@ -1,0 +1,275 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://example.org/hk-insurance-rag-eval/schema.json",
+  "title": "港险条款问答 RAG 评测基准集 - 单条样本 Schema",
+  "description": "v1.0 已用生产环境(DashVector/OSS/中台)真实数据校准。知识库基准版本 rag_v1_260604_bge_m3。",
+  "type": "object",
+  "required": [
+    "id",
+    "session_id",
+    "sample_type",
+    "is_evaluable",
+    "kb_version",
+    "question_raw",
+    "expected_behavior",
+    "eval_method",
+    "verified"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "评测集内唯一ID",
+      "examples": ["TERM-0007", "OBJ-0118"]
+    },
+    "session_id": {
+      "type": "string",
+      "description": "复用企微 session id，可回溯原始对话"
+    },
+    "sample_type": {
+      "type": "string",
+      "description": "第一闸门:先分流再标注",
+      "enum": ["normal_answer", "correct_refusal", "multi_doc", "chitchat", "system_error"]
+    },
+    "is_evaluable": {
+      "type": "boolean",
+      "description": "system_error/空session/闲聊 → false,不计入主指标"
+    },
+
+    "source_company": {
+      "type": "string",
+      "description": "保司标准中文名(对齐中台19家值域 / metadata.company)"
+    },
+    "source_company_id": {
+      "type": ["integer", "null"],
+      "description": "链接中台标准保司id(中台API可用时填)"
+    },
+    "product_name": {
+      "type": "string",
+      "description": "产品标准名(对齐中台770产品值域)"
+    },
+    "product_id": {
+      "type": ["integer", "null"],
+      "description": "链接中台标准产品id(可空)"
+    },
+    "kb_version": {
+      "type": "string",
+      "description": "标注时所用向量库版本,防跨版本错位",
+      "examples": ["rag_v1_260604_bge_m3"]
+    },
+    "org_code": {
+      "type": "string",
+      "description": "请求侧用小写(awm),metadata存储侧为大写(AWM)",
+      "examples": ["awm"]
+    },
+
+    "question_raw": {
+      "type": "string",
+      "description": "铁律:用户原话,一字不改(含错别字/口语/粤语)。评测输入即此字段"
+    },
+    "question_lang": {
+      "type": "string",
+      "description": "提问语言",
+      "examples": ["zh-Hans", "zh-Hant", "粤语夹杂"]
+    },
+    "question_type": {
+      "type": "string",
+      "description": "复用 session.question_types",
+      "examples": ["单业务细节咨询"]
+    },
+    "question_sub_type": {
+      "type": ["string", "null"],
+      "description": "复用 sub_types(部分session才有)"
+    },
+    "question_quality": {
+      "type": "object",
+      "description": "真实问题的脏特征标注",
+      "additionalProperties": false,
+      "properties": {
+        "is_underspecified": { "type": "boolean", "description": "信息不全(没说哪个计划/年期)" },
+        "has_false_premise": { "type": "boolean", "description": "预设错误前提" },
+        "is_multi_intent": { "type": "boolean", "description": "一句多问" },
+        "is_cross_company": { "type": "boolean", "description": "跨保司题" },
+        "is_colloquial": { "type": "boolean", "description": "口语/粤语" },
+        "has_typo": { "type": "boolean", "description": "错别字/谐音" },
+        "needs_term_mapping": {
+          "type": "boolean",
+          "description": "需口语→条款术语映射(如 预存利率→保证利息)。RAG最易失败处,单独统计"
+        }
+      }
+    },
+
+    "gold_evidence": {
+      "type": "array",
+      "description": "人工核验后的标准证据,非系统输出",
+      "items": {
+        "type": "object",
+        "required": ["hash", "page"],
+        "additionalProperties": false,
+        "properties": {
+          "hash": {
+            "type": "string",
+            "description": "文件级主键,跨库稳定,反查OSS hash_jsons/{hash}.json",
+            "pattern": "^[a-f0-9]{40}$",
+            "examples": ["b8062eeb79116a07011af54b8a63933dbae1cc6b"]
+          },
+          "page": {
+            "type": "integer",
+            "minimum": 1,
+            "description": "1-based(已实测)。反查OSS时 page_index = page - 1"
+          },
+          "doc_type": {
+            "type": "string",
+            "description": "即metadata.type,版本/月份标识,港险多版本必标",
+            "examples": ["2026-05", "2026-06"]
+          },
+          "node_path": {
+            "type": "string",
+            "description": "目录路径,含保司/类型/产品四级",
+            "examples": ["宏利保险 / 优惠信息 / 2026-05"]
+          },
+          "file_name": {
+            "type": "string",
+            "description": "冗余,给标注员看"
+          }
+        }
+      }
+    },
+    "requires_multi_doc": {
+      "type": "boolean",
+      "description": "跨文档综合题(同性配偶案例=true)"
+    },
+    "no_answer_in_corpus": {
+      "type": "boolean",
+      "description": "语料确实没有→正确行为是拒答。必须人工去库里查证,不能信系统的has_failed_retrieval"
+    },
+    "retrieval_granularity": {
+      "type": "string",
+      "description": "recall计算粒度(固定为(hash,page))",
+      "enum": ["hash_page"]
+    },
+    "retrieval_candidates_snapshot": {
+      "type": "array",
+      "description": "系统当时topk原样存档,仅历史参考,不当ground truth(企微旧库与当前库错位)",
+      "items": {
+        "type": "object",
+        "additionalProperties": true,
+        "properties": {
+          "hash": { "type": "string" },
+          "page": { "type": "integer" },
+          "file_name": { "type": "string" },
+          "score": { "type": "number" }
+        }
+      }
+    },
+    "kb_version_for_evidence": {
+      "type": "string",
+      "description": "本条gold在哪个库版本上标的(库重建后据此判断是否需重标)"
+    },
+
+    "expected_behavior": {
+      "type": "string",
+      "description": "期望行为",
+      "enum": ["answer", "refuse", "clarify", "correct_premise"]
+    },
+    "base_answer": {
+      "type": "string",
+      "description": "核心事实,错则一票否决判0分。港险需限定版本/年期。拒答题留空"
+    },
+    "required_keywords": {
+      "type": "array",
+      "description": "关键实体,命中加分",
+      "items": { "type": "string" }
+    },
+    "acceptable_answers": {
+      "type": "array",
+      "description": "多个等价表述,算语义相似度取上限",
+      "items": { "type": "string" }
+    },
+    "key_points": {
+      "type": "array",
+      "description": "复杂/综合题按要点逐条给分(multi_doc用此,非base/kw)",
+      "items": { "type": "string" }
+    },
+    "forbidden_content": {
+      "type": "array",
+      "description": "不该出现的幻觉点(拒答题尤其)",
+      "items": { "type": "string" }
+    },
+    "currency": {
+      "type": "string",
+      "description": "港险关键:美元保单常见",
+      "examples": ["USD", "HKD"]
+    },
+    "currency_required": {
+      "type": "boolean",
+      "description": "涉及保额/价值时,答案是否必须带币种"
+    },
+    "clarify_question": {
+      "type": ["string", "null"],
+      "description": "expected_behavior=clarify时的理想反问"
+    },
+
+    "eval_method": {
+      "type": "string",
+      "description": "题型对应的打分逻辑",
+      "enum": ["objective_qa", "refusal", "clarify", "multi_point"]
+    },
+    "score_weights": {
+      "type": "object",
+      "description": "objective_qa权重(默认沿用赛题配置)",
+      "additionalProperties": false,
+      "properties": {
+        "base": { "type": "number", "minimum": 0, "maximum": 1 },
+        "keyword": { "type": "number", "minimum": 0, "maximum": 1 },
+        "similarity": { "type": "number", "minimum": 0, "maximum": 1 }
+      }
+    },
+
+    "annotator": {
+      "type": "string",
+      "description": "标注人"
+    },
+    "verified": {
+      "type": "boolean",
+      "description": "是否双人核验通过;未核验不进正式评测"
+    },
+    "notes": {
+      "type": "string",
+      "description": "出题意图、答案解释、边界判断记录"
+    }
+  },
+
+  "allOf": [
+    {
+      "description": "拒答题不应有base_answer",
+      "if": { "properties": { "expected_behavior": { "const": "refuse" } } },
+      "then": { "properties": { "base_answer": { "maxLength": 0 } } }
+    },
+    {
+      "description": "clarify题应给出理想反问",
+      "if": { "properties": { "expected_behavior": { "const": "clarify" } } },
+      "then": { "required": ["clarify_question"] }
+    },
+    {
+      "description": "objective_qa评分法需要base_answer",
+      "if": { "properties": { "eval_method": { "const": "objective_qa" } } },
+      "then": { "required": ["base_answer", "required_keywords"] }
+    },
+    {
+      "description": "multi_point评分法需要key_points",
+      "if": { "properties": { "eval_method": { "const": "multi_point" } } },
+      "then": { "required": ["key_points"] }
+    },
+    {
+      "description": "可评测样本应有检索ground truth或明确标注语料无答案",
+      "if": {
+        "properties": {
+          "is_evaluable": { "const": true },
+          "sample_type": { "enum": ["normal_answer", "multi_doc"] }
+        }
+      },
+      "then": { "required": ["gold_evidence"] }
+    }
+  ]
+}

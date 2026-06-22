@@ -1,0 +1,19 @@
+# 用户真实对话 — 含 PII(姓名/手机/邮箱/微信ID),不提交
+real_conversation_recording/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db

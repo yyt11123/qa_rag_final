@@ -1,0 +1,4892 @@
+[
+  {
+    "id": "EVAL-0001",
+    "session_id": "144233044058869870",
+    "sample_type": "normal_answer",
+    "has_errors": true,
+    "error_count": 3,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0002",
+    "session_id": "144233455335542894",
+    "sample_type": "normal_answer",
+    "has_errors": true,
+    "error_count": 3,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0003",
+    "session_id": "148304895169040593",
+    "sample_type": "normal_answer",
+    "has_errors": true,
+    "error_count": 3,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0004",
+    "session_id": "148304911644266705",
+    "sample_type": "normal_answer",
+    "has_errors": true,
+    "error_count": 3,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0005",
+    "session_id": "143952566638645353",
+    "sample_type": "normal_answer",
+    "has_errors": true,
+    "error_count": 3,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0006",
+    "session_id": "143961707318906985",
+    "sample_type": "normal_answer",
+    "has_errors": true,
+    "error_count": 3,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0007",
+    "session_id": "145169878985248925",
+    "sample_type": "normal_answer",
+    "has_errors": true,
+    "error_count": 3,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0008",
+    "session_id": "145829932713414821",
+    "sample_type": "normal_answer",
+    "has_errors": true,
+    "error_count": 3,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0009",
+    "session_id": "160365242323356752",
+    "sample_type": "normal_answer",
+    "has_errors": true,
+    "error_count": 3,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0010",
+    "session_id": "165779996663639845",
+    "sample_type": "normal_answer",
+    "has_errors": true,
+    "error_count": 3,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0011",
+    "session_id": "144138612508758121",
+    "sample_type": "normal_answer",
+    "has_errors": true,
+    "error_count": 3,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0012",
+    "session_id": "144139191926689897",
+    "sample_type": "normal_answer",
+    "has_errors": true,
+    "error_count": 3,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0013",
+    "session_id": "143878934356856937",
+    "sample_type": "normal_answer",
+    "has_errors": true,
+    "error_count": 3,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0014",
+    "session_id": "143984183771959401",
+    "sample_type": "normal_answer",
+    "has_errors": true,
+    "error_count": 3,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0015",
+    "session_id": "148744400900493550",
+    "sample_type": "normal_answer",
+    "has_errors": true,
+    "error_count": 3,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0016",
+    "session_id": "148751946050736366",
+    "sample_type": "normal_answer",
+    "has_errors": true,
+    "error_count": 3,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0017",
+    "session_id": "158240782334086217",
+    "sample_type": "normal_answer",
+    "has_errors": true,
+    "error_count": 3,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0018",
+    "session_id": "158240782334086217",
+    "sample_type": "normal_answer",
+    "has_errors": true,
+    "error_count": 3,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0019",
+    "session_id": "147935161617518797",
+    "sample_type": "normal_answer",
+    "has_errors": true,
+    "error_count": 3,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0020",
+    "session_id": "148018599661965517",
+    "sample_type": "normal_answer",
+    "has_errors": true,
+    "error_count": 3,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0021",
+    "session_id": "143979967473029225",
+    "sample_type": "normal_answer",
+    "has_errors": true,
+    "error_count": 3,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0022",
+    "session_id": "144425444064661614",
+    "sample_type": "normal_answer",
+    "has_errors": true,
+    "error_count": 3,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0023",
+    "session_id": "144603408064614510",
+    "sample_type": "normal_answer",
+    "has_errors": true,
+    "error_count": 3,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0024",
+    "session_id": "144711358997368942",
+    "sample_type": "normal_answer",
+    "has_errors": true,
+    "error_count": 3,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0025",
+    "session_id": "144104679498879081",
+    "sample_type": "normal_answer",
+    "has_errors": true,
+    "error_count": 3,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0026",
+    "session_id": "144104693222641769",
+    "sample_type": "normal_answer",
+    "has_errors": true,
+    "error_count": 3,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0027",
+    "session_id": "144232639392419950",
+    "sample_type": "normal_answer",
+    "has_errors": true,
+    "error_count": 3,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0028",
+    "session_id": "150983354416664871",
+    "sample_type": "normal_answer",
+    "has_errors": true,
+    "error_count": 3,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0029",
+    "session_id": "146416486498472116",
+    "sample_type": "normal_answer",
+    "has_errors": true,
+    "error_count": 3,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0030",
+    "session_id": "148743453591769326",
+    "sample_type": "normal_answer",
+    "has_errors": true,
+    "error_count": 3,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0031",
+    "session_id": "148745795489796334",
+    "sample_type": "normal_answer",
+    "has_errors": true,
+    "error_count": 3,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0032",
+    "session_id": "145702870048608418",
+    "sample_type": "normal_answer",
+    "has_errors": true,
+    "error_count": 3,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0033",
+    "session_id": "145703602525081762",
+    "sample_type": "normal_answer",
+    "has_errors": true,
+    "error_count": 3,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0034",
+    "session_id": "143888889117970537",
+    "sample_type": "normal_answer",
+    "has_errors": true,
+    "error_count": 3,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0035",
+    "session_id": "144737816633446537",
+    "sample_type": "normal_answer",
+    "has_errors": true,
+    "error_count": 3,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0036",
+    "session_id": "143888389005938793",
+    "sample_type": "normal_answer",
+    "has_errors": true,
+    "error_count": 3,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0037",
+    "session_id": "143986218479161449",
+    "sample_type": "normal_answer",
+    "has_errors": true,
+    "error_count": 3,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0038",
+    "session_id": "150672947533615393",
+    "sample_type": "normal_answer",
+    "has_errors": true,
+    "error_count": 3,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0039",
+    "session_id": "158443752975813708",
+    "sample_type": "normal_answer",
+    "has_errors": true,
+    "error_count": 3,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0040",
+    "session_id": "144683966736142446",
+    "sample_type": "normal_answer",
+    "has_errors": true,
+    "error_count": 3,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0041",
+    "session_id": "144684269866881134",
+    "sample_type": "normal_answer",
+    "has_errors": true,
+    "error_count": 3,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0042",
+    "session_id": "155735096802972753",
+    "sample_type": "normal_answer",
+    "has_errors": true,
+    "error_count": 3,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0043",
+    "session_id": "144847850491121801",
+    "sample_type": "normal_answer",
+    "has_errors": true,
+    "error_count": 3,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0044",
+    "session_id": "151821604911878451",
+    "sample_type": "normal_answer",
+    "has_errors": true,
+    "error_count": 3,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0045",
+    "session_id": "157931786096135243",
+    "sample_type": "normal_answer",
+    "has_errors": true,
+    "error_count": 3,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0046",
+    "session_id": "157929420944886859",
+    "sample_type": "normal_answer",
+    "has_errors": true,
+    "error_count": 3,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0047",
+    "session_id": "161380344589751477",
+    "sample_type": "normal_answer",
+    "has_errors": true,
+    "error_count": 3,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0048",
+    "session_id": "145886399386652837",
+    "sample_type": "normal_answer",
+    "has_errors": true,
+    "error_count": 3,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0049",
+    "session_id": "144107833867145321",
+    "sample_type": "normal_answer",
+    "has_errors": true,
+    "error_count": 3,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0050",
+    "session_id": "158642721731431500",
+    "sample_type": "normal_answer",
+    "has_errors": true,
+    "error_count": 3,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0051",
+    "session_id": "148311211170107601",
+    "sample_type": "normal_answer",
+    "has_errors": true,
+    "error_count": 3,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0052",
+    "session_id": "167141755437739806",
+    "sample_type": "normal_answer",
+    "has_errors": true,
+    "error_count": 3,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0053",
+    "session_id": "160928337215123193",
+    "sample_type": "normal_answer",
+    "has_errors": true,
+    "error_count": 3,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0054",
+    "session_id": "148894257661382894",
+    "sample_type": "normal_answer",
+    "has_errors": true,
+    "error_count": 3,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0055",
+    "session_id": "157918473408793675",
+    "sample_type": "normal_answer",
+    "has_errors": true,
+    "error_count": 3,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0056",
+    "session_id": "154992970511193050",
+    "sample_type": "normal_answer",
+    "has_errors": true,
+    "error_count": 3,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0057",
+    "session_id": "158923600663989321",
+    "sample_type": "normal_answer",
+    "has_errors": true,
+    "error_count": 3,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0058",
+    "session_id": "149359636879806729",
+    "sample_type": "normal_answer",
+    "has_errors": true,
+    "error_count": 3,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0059",
+    "session_id": "146002119764250796",
+    "sample_type": "normal_answer",
+    "has_errors": true,
+    "error_count": 3,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0060",
+    "session_id": "151353607827001642",
+    "sample_type": "normal_answer",
+    "has_errors": true,
+    "error_count": 3,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0061",
+    "session_id": "151822303229940019",
+    "sample_type": "normal_answer",
+    "has_errors": true,
+    "error_count": 3,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0062",
+    "session_id": "164562724179711167",
+    "sample_type": "normal_answer",
+    "has_errors": true,
+    "error_count": 3,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0063",
+    "session_id": "157584722858382629",
+    "sample_type": "normal_answer",
+    "has_errors": true,
+    "error_count": 3,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0064",
+    "session_id": "162538644907791540",
+    "sample_type": "normal_answer",
+    "has_errors": true,
+    "error_count": 3,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0065",
+    "session_id": "146759770450202810",
+    "sample_type": "normal_answer",
+    "has_errors": true,
+    "error_count": 3,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0066",
+    "session_id": "158038536971382522",
+    "sample_type": "normal_answer",
+    "has_errors": true,
+    "error_count": 3,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0067",
+    "session_id": "161958738104718510",
+    "sample_type": "normal_answer",
+    "has_errors": true,
+    "error_count": 3,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0068",
+    "session_id": "152022075060556128",
+    "sample_type": "normal_answer",
+    "has_errors": true,
+    "error_count": 3,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0069",
+    "session_id": "158211676984888396",
+    "sample_type": "normal_answer",
+    "has_errors": true,
+    "error_count": 3,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0070",
+    "session_id": "167311300110610217",
+    "sample_type": "normal_answer",
+    "has_errors": true,
+    "error_count": 3,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0071",
+    "session_id": "155409272765715537",
+    "sample_type": "normal_answer",
+    "has_errors": true,
+    "error_count": 3,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0072",
+    "session_id": "145766825165164709",
+    "sample_type": "normal_answer",
+    "has_errors": true,
+    "error_count": 3,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0073",
+    "session_id": "157046137264575770",
+    "sample_type": "normal_answer",
+    "has_errors": true,
+    "error_count": 3,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0074",
+    "session_id": "152750272723063451",
+    "sample_type": "normal_answer",
+    "has_errors": true,
+    "error_count": 3,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0075",
+    "session_id": "158761301919714380",
+    "sample_type": "normal_answer",
+    "has_errors": true,
+    "error_count": 3,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0076",
+    "session_id": "155035029968294874",
+    "sample_type": "normal_answer",
+    "has_errors": true,
+    "error_count": 3,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0077",
+    "session_id": "155362848631985233",
+    "sample_type": "normal_answer",
+    "has_errors": true,
+    "error_count": 3,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0078",
+    "session_id": "152111150769672544",
+    "sample_type": "normal_answer",
+    "has_errors": true,
+    "error_count": 3,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0079",
+    "session_id": "166305687725436704",
+    "sample_type": "normal_answer",
+    "has_errors": true,
+    "error_count": 3,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0080",
+    "session_id": "147762146762068163",
+    "sample_type": "normal_answer",
+    "has_errors": true,
+    "error_count": 3,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0081",
+    "session_id": "155151084782916661",
+    "sample_type": "normal_answer",
+    "has_errors": true,
+    "error_count": 3,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0082",
+    "session_id": "167489278555746098",
+    "sample_type": "normal_answer",
+    "has_errors": true,
+    "error_count": 3,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0083",
+    "session_id": "161680316749092014",
+    "sample_type": "normal_answer",
+    "has_errors": true,
+    "error_count": 3,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0084",
+    "session_id": "166916788003565342",
+    "sample_type": "normal_answer",
+    "has_errors": true,
+    "error_count": 3,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0085",
+    "session_id": "155175196746093649",
+    "sample_type": "normal_answer",
+    "has_errors": true,
+    "error_count": 3,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0086",
+    "session_id": "144424636929577070",
+    "sample_type": "correct_refusal",
+    "has_errors": false,
+    "error_count": 0,
+    "errors": [],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0087",
+    "session_id": "145040763409961102",
+    "sample_type": "correct_refusal",
+    "has_errors": false,
+    "error_count": 0,
+    "errors": [],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0088",
+    "session_id": "145286951019253917",
+    "sample_type": "correct_refusal",
+    "has_errors": false,
+    "error_count": 0,
+    "errors": [],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0089",
+    "session_id": "145625877340786850",
+    "sample_type": "correct_refusal",
+    "has_errors": false,
+    "error_count": 0,
+    "errors": [],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0090",
+    "session_id": "145886207421747365",
+    "sample_type": "correct_refusal",
+    "has_errors": false,
+    "error_count": 0,
+    "errors": [],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0091",
+    "session_id": "146292981861748912",
+    "sample_type": "correct_refusal",
+    "has_errors": false,
+    "error_count": 0,
+    "errors": [],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0092",
+    "session_id": "146293172216041648",
+    "sample_type": "correct_refusal",
+    "has_errors": false,
+    "error_count": 0,
+    "errors": [],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0093",
+    "session_id": "146798504193331386",
+    "sample_type": "correct_refusal",
+    "has_errors": false,
+    "error_count": 0,
+    "errors": [],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0094",
+    "session_id": "147505529495785658",
+    "sample_type": "correct_refusal",
+    "has_errors": false,
+    "error_count": 0,
+    "errors": [],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0095",
+    "session_id": "147645231544701118",
+    "sample_type": "correct_refusal",
+    "has_errors": false,
+    "error_count": 0,
+    "errors": [],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0096",
+    "session_id": "148481722227396846",
+    "sample_type": "correct_refusal",
+    "has_errors": false,
+    "error_count": 0,
+    "errors": [],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0097",
+    "session_id": "148744177360867566",
+    "sample_type": "correct_refusal",
+    "has_errors": false,
+    "error_count": 0,
+    "errors": [],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0098",
+    "session_id": "148751329437716718",
+    "sample_type": "correct_refusal",
+    "has_errors": false,
+    "error_count": 0,
+    "errors": [],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0099",
+    "session_id": "149029868217077998",
+    "sample_type": "correct_refusal",
+    "has_errors": false,
+    "error_count": 0,
+    "errors": [],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0100",
+    "session_id": "149390218523349260",
+    "sample_type": "correct_refusal",
+    "has_errors": false,
+    "error_count": 0,
+    "errors": [],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0101",
+    "session_id": "149390310311497996",
+    "sample_type": "correct_refusal",
+    "has_errors": false,
+    "error_count": 0,
+    "errors": [],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0102",
+    "session_id": "149916572570390802",
+    "sample_type": "correct_refusal",
+    "has_errors": false,
+    "error_count": 0,
+    "errors": [],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0103",
+    "session_id": "149916604279329042",
+    "sample_type": "correct_refusal",
+    "has_errors": false,
+    "error_count": 0,
+    "errors": [],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0104",
+    "session_id": "149926489532436754",
+    "sample_type": "correct_refusal",
+    "has_errors": false,
+    "error_count": 0,
+    "errors": [],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0105",
+    "session_id": "149926581555466514",
+    "sample_type": "correct_refusal",
+    "has_errors": false,
+    "error_count": 0,
+    "errors": [],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0106",
+    "session_id": "149951794657661202",
+    "sample_type": "correct_refusal",
+    "has_errors": false,
+    "error_count": 0,
+    "errors": [],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0107",
+    "session_id": "150197505794019605",
+    "sample_type": "correct_refusal",
+    "has_errors": false,
+    "error_count": 0,
+    "errors": [],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0108",
+    "session_id": "150399435661152539",
+    "sample_type": "correct_refusal",
+    "has_errors": false,
+    "error_count": 0,
+    "errors": [],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0109",
+    "session_id": "151834202671714614",
+    "sample_type": "correct_refusal",
+    "has_errors": false,
+    "error_count": 0,
+    "errors": [],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0110",
+    "session_id": "152009667118141792",
+    "sample_type": "correct_refusal",
+    "has_errors": false,
+    "error_count": 0,
+    "errors": [],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0111",
+    "session_id": "152075983795556704",
+    "sample_type": "correct_refusal",
+    "has_errors": false,
+    "error_count": 0,
+    "errors": [],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0112",
+    "session_id": "152547503777026568",
+    "sample_type": "correct_refusal",
+    "has_errors": false,
+    "error_count": 0,
+    "errors": [],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0113",
+    "session_id": "153848100857877410",
+    "sample_type": "correct_refusal",
+    "has_errors": false,
+    "error_count": 0,
+    "errors": [],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0114",
+    "session_id": "153848125990146978",
+    "sample_type": "correct_refusal",
+    "has_errors": false,
+    "error_count": 0,
+    "errors": [],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0115",
+    "session_id": "153848260107211682",
+    "sample_type": "correct_refusal",
+    "has_errors": false,
+    "error_count": 0,
+    "errors": [],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0116",
+    "session_id": "154103696811135906",
+    "sample_type": "correct_refusal",
+    "has_errors": false,
+    "error_count": 0,
+    "errors": [],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0117",
+    "session_id": "154103937614517154",
+    "sample_type": "correct_refusal",
+    "has_errors": false,
+    "error_count": 0,
+    "errors": [],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0118",
+    "session_id": "155607231600038993",
+    "sample_type": "correct_refusal",
+    "has_errors": false,
+    "error_count": 0,
+    "errors": [],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0119",
+    "session_id": "156012206331302993",
+    "sample_type": "correct_refusal",
+    "has_errors": false,
+    "error_count": 0,
+    "errors": [],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0120",
+    "session_id": "156015988284888145",
+    "sample_type": "correct_refusal",
+    "has_errors": false,
+    "error_count": 0,
+    "errors": [],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0121",
+    "session_id": "156016161811633233",
+    "sample_type": "correct_refusal",
+    "has_errors": false,
+    "error_count": 0,
+    "errors": [],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0122",
+    "session_id": "157380836902072072",
+    "sample_type": "correct_refusal",
+    "has_errors": false,
+    "error_count": 0,
+    "errors": [],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0123",
+    "session_id": "157424077324185352",
+    "sample_type": "correct_refusal",
+    "has_errors": false,
+    "error_count": 0,
+    "errors": [],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0124",
+    "session_id": "157438837499391752",
+    "sample_type": "correct_refusal",
+    "has_errors": false,
+    "error_count": 0,
+    "errors": [],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0125",
+    "session_id": "157439195021864712",
+    "sample_type": "correct_refusal",
+    "has_errors": false,
+    "error_count": 0,
+    "errors": [],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0126",
+    "session_id": "157439965783944968",
+    "sample_type": "correct_refusal",
+    "has_errors": false,
+    "error_count": 0,
+    "errors": [],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0127",
+    "session_id": "157460297370595080",
+    "sample_type": "correct_refusal",
+    "has_errors": false,
+    "error_count": 0,
+    "errors": [],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0128",
+    "session_id": "157460544398323464",
+    "sample_type": "correct_refusal",
+    "has_errors": false,
+    "error_count": 0,
+    "errors": [],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0129",
+    "session_id": "157468576389820168",
+    "sample_type": "correct_refusal",
+    "has_errors": false,
+    "error_count": 0,
+    "errors": [],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0130",
+    "session_id": "157468718710943496",
+    "sample_type": "correct_refusal",
+    "has_errors": false,
+    "error_count": 0,
+    "errors": [],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0131",
+    "session_id": "157473777830106405",
+    "sample_type": "correct_refusal",
+    "has_errors": false,
+    "error_count": 0,
+    "errors": [],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0132",
+    "session_id": "157476752195622181",
+    "sample_type": "correct_refusal",
+    "has_errors": false,
+    "error_count": 0,
+    "errors": [],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0133",
+    "session_id": "157477125975217445",
+    "sample_type": "correct_refusal",
+    "has_errors": false,
+    "error_count": 0,
+    "errors": [],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0134",
+    "session_id": "157479380581389605",
+    "sample_type": "correct_refusal",
+    "has_errors": false,
+    "error_count": 0,
+    "errors": [],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0135",
+    "session_id": "157497259775268133",
+    "sample_type": "correct_refusal",
+    "has_errors": false,
+    "error_count": 0,
+    "errors": [],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0136",
+    "session_id": "157502286245958949",
+    "sample_type": "correct_refusal",
+    "has_errors": false,
+    "error_count": 0,
+    "errors": [],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0137",
+    "session_id": "157502402428179749",
+    "sample_type": "correct_refusal",
+    "has_errors": false,
+    "error_count": 0,
+    "errors": [],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0138",
+    "session_id": "157504952430794021",
+    "sample_type": "correct_refusal",
+    "has_errors": false,
+    "error_count": 0,
+    "errors": [],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0139",
+    "session_id": "157505229338744101",
+    "sample_type": "correct_refusal",
+    "has_errors": false,
+    "error_count": 0,
+    "errors": [],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0140",
+    "session_id": "157624183642166565",
+    "sample_type": "correct_refusal",
+    "has_errors": false,
+    "error_count": 0,
+    "errors": [],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0141",
+    "session_id": "158358981981555788",
+    "sample_type": "correct_refusal",
+    "has_errors": false,
+    "error_count": 0,
+    "errors": [],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0142",
+    "session_id": "158456346725895244",
+    "sample_type": "correct_refusal",
+    "has_errors": false,
+    "error_count": 0,
+    "errors": [],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0143",
+    "session_id": "158643143611305036",
+    "sample_type": "correct_refusal",
+    "has_errors": false,
+    "error_count": 0,
+    "errors": [],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0144",
+    "session_id": "159067453127707721",
+    "sample_type": "correct_refusal",
+    "has_errors": false,
+    "error_count": 0,
+    "errors": [],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0145",
+    "session_id": "159172331531455561",
+    "sample_type": "correct_refusal",
+    "has_errors": false,
+    "error_count": 0,
+    "errors": [],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0146",
+    "session_id": "159342448894594110",
+    "sample_type": "correct_refusal",
+    "has_errors": false,
+    "error_count": 0,
+    "errors": [],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0147",
+    "session_id": "159473446386977862",
+    "sample_type": "correct_refusal",
+    "has_errors": false,
+    "error_count": 0,
+    "errors": [],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0148",
+    "session_id": "159527635335040070",
+    "sample_type": "correct_refusal",
+    "has_errors": false,
+    "error_count": 0,
+    "errors": [],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0149",
+    "session_id": "159975639447817296",
+    "sample_type": "correct_refusal",
+    "has_errors": false,
+    "error_count": 0,
+    "errors": [],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0150",
+    "session_id": "160364767310040144",
+    "sample_type": "correct_refusal",
+    "has_errors": false,
+    "error_count": 0,
+    "errors": [],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0151",
+    "session_id": "160671607591849034",
+    "sample_type": "correct_refusal",
+    "has_errors": false,
+    "error_count": 0,
+    "errors": [],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0152",
+    "session_id": "160954427581165305",
+    "sample_type": "correct_refusal",
+    "has_errors": false,
+    "error_count": 0,
+    "errors": [],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0153",
+    "session_id": "164113907143709884",
+    "sample_type": "correct_refusal",
+    "has_errors": false,
+    "error_count": 0,
+    "errors": [],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0154",
+    "session_id": "164114621953774780",
+    "sample_type": "correct_refusal",
+    "has_errors": false,
+    "error_count": 0,
+    "errors": [],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0155",
+    "session_id": "164114719462954172",
+    "sample_type": "correct_refusal",
+    "has_errors": false,
+    "error_count": 0,
+    "errors": [],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0156",
+    "session_id": "164414312658530080",
+    "sample_type": "correct_refusal",
+    "has_errors": false,
+    "error_count": 0,
+    "errors": [],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0157",
+    "session_id": "165405076385469609",
+    "sample_type": "correct_refusal",
+    "has_errors": false,
+    "error_count": 0,
+    "errors": [],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0158",
+    "session_id": "165413534937683113",
+    "sample_type": "correct_refusal",
+    "has_errors": false,
+    "error_count": 0,
+    "errors": [],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0159",
+    "session_id": "165991989387489061",
+    "sample_type": "correct_refusal",
+    "has_errors": false,
+    "error_count": 0,
+    "errors": [],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0160",
+    "session_id": "165992106005917477",
+    "sample_type": "correct_refusal",
+    "has_errors": false,
+    "error_count": 0,
+    "errors": [],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0161",
+    "session_id": "166788087228165918",
+    "sample_type": "correct_refusal",
+    "has_errors": false,
+    "error_count": 0,
+    "errors": [],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0162",
+    "session_id": "167138159409262366",
+    "sample_type": "correct_refusal",
+    "has_errors": false,
+    "error_count": 0,
+    "errors": [],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0163",
+    "session_id": "167502427430350642",
+    "sample_type": "correct_refusal",
+    "has_errors": false,
+    "error_count": 0,
+    "errors": [],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0164",
+    "session_id": "167632594031111986",
+    "sample_type": "correct_refusal",
+    "has_errors": false,
+    "error_count": 0,
+    "errors": [],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0165",
+    "session_id": "167807108752895794",
+    "sample_type": "correct_refusal",
+    "has_errors": false,
+    "error_count": 0,
+    "errors": [],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0166",
+    "session_id": "167807323685809970",
+    "sample_type": "correct_refusal",
+    "has_errors": false,
+    "error_count": 0,
+    "errors": [],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0167",
+    "session_id": "157187720005850394",
+    "sample_type": "multi_doc",
+    "has_errors": true,
+    "error_count": 2,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "multi_point → 需要 key_points",
+        "message": "multi_point 题缺少 key_points"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0168",
+    "session_id": "166917480432824094",
+    "sample_type": "multi_doc",
+    "has_errors": true,
+    "error_count": 2,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "multi_point → 需要 key_points",
+        "message": "multi_point 题缺少 key_points"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0169",
+    "session_id": "167758232863928114",
+    "sample_type": "multi_doc",
+    "has_errors": true,
+    "error_count": 2,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "multi_point → 需要 key_points",
+        "message": "multi_point 题缺少 key_points"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0170",
+    "session_id": "153125631406674672",
+    "sample_type": "multi_doc",
+    "has_errors": true,
+    "error_count": 2,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "multi_point → 需要 key_points",
+        "message": "multi_point 题缺少 key_points"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0171",
+    "session_id": "156906363191072026",
+    "sample_type": "multi_doc",
+    "has_errors": true,
+    "error_count": 2,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "multi_point → 需要 key_points",
+        "message": "multi_point 题缺少 key_points"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0172",
+    "session_id": "145870813017444517",
+    "sample_type": "multi_doc",
+    "has_errors": true,
+    "error_count": 2,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "multi_point → 需要 key_points",
+        "message": "multi_point 题缺少 key_points"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0173",
+    "session_id": "156001685238486097",
+    "sample_type": "multi_doc",
+    "has_errors": true,
+    "error_count": 2,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "multi_point → 需要 key_points",
+        "message": "multi_point 题缺少 key_points"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0174",
+    "session_id": "157469153509273352",
+    "sample_type": "multi_doc",
+    "has_errors": true,
+    "error_count": 2,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "multi_point → 需要 key_points",
+        "message": "multi_point 题缺少 key_points"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0175",
+    "session_id": "157908109015174219",
+    "sample_type": "multi_doc",
+    "has_errors": true,
+    "error_count": 2,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "multi_point → 需要 key_points",
+        "message": "multi_point 题缺少 key_points"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0176",
+    "session_id": "155620446174221393",
+    "sample_type": "multi_doc",
+    "has_errors": true,
+    "error_count": 2,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "multi_point → 需要 key_points",
+        "message": "multi_point 题缺少 key_points"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0177",
+    "session_id": "150398843492536603",
+    "sample_type": "multi_doc",
+    "has_errors": true,
+    "error_count": 2,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "multi_point → 需要 key_points",
+        "message": "multi_point 题缺少 key_points"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0178",
+    "session_id": "157444733751291656",
+    "sample_type": "multi_doc",
+    "has_errors": true,
+    "error_count": 2,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "multi_point → 需要 key_points",
+        "message": "multi_point 题缺少 key_points"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0179",
+    "session_id": "145268558107021469",
+    "sample_type": "multi_doc",
+    "has_errors": true,
+    "error_count": 2,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "multi_point → 需要 key_points",
+        "message": "multi_point 题缺少 key_points"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0180",
+    "session_id": "159907562974661707",
+    "sample_type": "multi_doc",
+    "has_errors": true,
+    "error_count": 2,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "multi_point → 需要 key_points",
+        "message": "multi_point 题缺少 key_points"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0181",
+    "session_id": "151983214011912544",
+    "sample_type": "multi_doc",
+    "has_errors": true,
+    "error_count": 2,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "multi_point → 需要 key_points",
+        "message": "multi_point 题缺少 key_points"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0182",
+    "session_id": "159636772651846726",
+    "sample_type": "multi_doc",
+    "has_errors": true,
+    "error_count": 2,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "multi_point → 需要 key_points",
+        "message": "multi_point 题缺少 key_points"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0183",
+    "session_id": "159483233174604870",
+    "sample_type": "multi_doc",
+    "has_errors": true,
+    "error_count": 2,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "multi_point → 需要 key_points",
+        "message": "multi_point 题缺少 key_points"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0184",
+    "session_id": "159862288751292178",
+    "sample_type": "multi_doc",
+    "has_errors": true,
+    "error_count": 2,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "multi_point → 需要 key_points",
+        "message": "multi_point 题缺少 key_points"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0185",
+    "session_id": "148881655036154094",
+    "sample_type": "multi_doc",
+    "has_errors": true,
+    "error_count": 2,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "multi_point → 需要 key_points",
+        "message": "multi_point 题缺少 key_points"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0186",
+    "session_id": "150944234294251812",
+    "sample_type": "multi_doc",
+    "has_errors": true,
+    "error_count": 2,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "multi_point → 需要 key_points",
+        "message": "multi_point 题缺少 key_points"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0187",
+    "session_id": "143959943429525609",
+    "sample_type": "multi_doc",
+    "has_errors": true,
+    "error_count": 2,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "multi_point → 需要 key_points",
+        "message": "multi_point 题缺少 key_points"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0188",
+    "session_id": "150809349822910753",
+    "sample_type": "multi_doc",
+    "has_errors": true,
+    "error_count": 2,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "multi_point → 需要 key_points",
+        "message": "multi_point 题缺少 key_points"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0189",
+    "session_id": "147031360643567802",
+    "sample_type": "multi_doc",
+    "has_errors": true,
+    "error_count": 2,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "multi_point → 需要 key_points",
+        "message": "multi_point 题缺少 key_points"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0190",
+    "session_id": "145268332738678941",
+    "sample_type": "multi_doc",
+    "has_errors": true,
+    "error_count": 2,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "multi_point → 需要 key_points",
+        "message": "multi_point 题缺少 key_points"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0191",
+    "session_id": "150940642359415076",
+    "sample_type": "multi_doc",
+    "has_errors": true,
+    "error_count": 2,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "multi_point → 需要 key_points",
+        "message": "multi_point 题缺少 key_points"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "is_evaluable=true + normal_answer/multi_doc → 需要 gold_evidence",
+        "message": "可评测样本缺少 gold_evidence"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0192",
+    "session_id": "145896982169292968",
+    "sample_type": "chitchat",
+    "has_errors": true,
+    "error_count": 2,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0193",
+    "session_id": "151353091558510890",
+    "sample_type": "chitchat",
+    "has_errors": true,
+    "error_count": 2,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0194",
+    "session_id": "144426860732780654",
+    "sample_type": "chitchat",
+    "has_errors": true,
+    "error_count": 2,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0195",
+    "session_id": "147072036668215482",
+    "sample_type": "chitchat",
+    "has_errors": true,
+    "error_count": 2,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0196",
+    "session_id": "148890713826824430",
+    "sample_type": "chitchat",
+    "has_errors": true,
+    "error_count": 2,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0197",
+    "session_id": "160928337215123193",
+    "sample_type": "chitchat",
+    "has_errors": true,
+    "error_count": 2,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0198",
+    "session_id": "163439869236923473",
+    "sample_type": "chitchat",
+    "has_errors": true,
+    "error_count": 2,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0199",
+    "session_id": "152750272723063451",
+    "sample_type": "chitchat",
+    "has_errors": true,
+    "error_count": 2,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0200",
+    "session_id": "145841868293312677",
+    "sample_type": "system_error",
+    "has_errors": true,
+    "error_count": 2,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0201",
+    "session_id": "145841868293312677",
+    "sample_type": "system_error",
+    "has_errors": true,
+    "error_count": 2,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0202",
+    "session_id": "145841868293312677",
+    "sample_type": "system_error",
+    "has_errors": true,
+    "error_count": 2,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0203",
+    "session_id": "145041489460760718",
+    "sample_type": "system_error",
+    "has_errors": true,
+    "error_count": 2,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0204",
+    "session_id": "144543066844336238",
+    "sample_type": "system_error",
+    "has_errors": true,
+    "error_count": 2,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0205",
+    "session_id": "155994199160820817",
+    "sample_type": "system_error",
+    "has_errors": true,
+    "error_count": 2,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  },
+  {
+    "id": "EVAL-0206",
+    "session_id": "145841868293312677",
+    "sample_type": "system_error",
+    "has_errors": true,
+    "error_count": 2,
+    "errors": [
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 base_answer",
+        "message": "objective_qa 题缺少 base_answer"
+      },
+      {
+        "type": "conditional_violation",
+        "condition": "objective_qa → 需要 required_keywords",
+        "message": "objective_qa 题缺少 required_keywords"
+      }
+    ],
+    "internal_fields_remaining": [
+      "_p0_unit_id",
+      "_p1_reason",
+      "_sample_index",
+      "_p3_auto_hints",
+      "_p5_annotation_guide"
+    ]
+  }
+]

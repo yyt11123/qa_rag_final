@@ -1,0 +1,11 @@
+{
+  "generated_at": "2026-06-22T19:13:26.157983",
+  "strict_mode": false,
+  "total_samples": 206,
+  "clean": 81,
+  "with_errors": 125,
+  "total_errors": 335,
+  "error_type_distribution": {
+    "conditional_violation": 335
+  }
+}

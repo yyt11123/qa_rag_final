@@ -1,0 +1,15 @@
+{
+  "generated_at": "2026-06-22T19:13:25.975185",
+  "stats": {
+    "total": 206,
+    "lang_distribution": {
+      "zh-Hans": 198,
+      "zh-Hant": 8
+    },
+    "colloquial_count": 0,
+    "typo_count": 0,
+    "term_mapping_hint_count": 12,
+    "multi_intent_detected": 5,
+    "cross_company_count": 25
+  }
+}

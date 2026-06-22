@@ -1,0 +1,33 @@
+{
+  "generated_at": "2026-06-22T19:13:25.813005",
+  "random_seed": 42,
+  "target_total": 160,
+  "total_sampled": 206,
+  "stats": {
+    "normal_answer": {
+      "pool_size": 1879,
+      "quota": 85,
+      "sampled": 85
+    },
+    "correct_refusal": {
+      "pool_size": 81,
+      "quota": 35,
+      "sampled": 81
+    },
+    "multi_doc": {
+      "pool_size": 239,
+      "quota": 25,
+      "sampled": 25
+    },
+    "chitchat": {
+      "pool_size": 246,
+      "quota": 8,
+      "sampled": 8
+    },
+    "system_error": {
+      "pool_size": 50,
+      "quota": 7,
+      "sampled": 7
+    }
+  }
+}

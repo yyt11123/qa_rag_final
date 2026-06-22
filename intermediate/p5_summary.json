@@ -1,0 +1,30 @@
+{
+  "generated_at": "2026-06-22T19:13:26.075370",
+  "stats": {
+    "total": 206,
+    "eval_method_distribution": {
+      "objective_qa": 100,
+      "refusal": 81,
+      "multi_point": 25
+    },
+    "expected_behavior_distribution": {
+      "answer": 125,
+      "refuse": 81
+    },
+    "sample_type_distribution": {
+      "normal_answer": 85,
+      "correct_refusal": 81,
+      "multi_doc": 25,
+      "chitchat": 8,
+      "system_error": 7
+    },
+    "has_base_answer": 0,
+    "has_keywords": 0,
+    "has_acceptable_answers": 0,
+    "has_forbidden_content": 0,
+    "has_key_points": 0,
+    "has_expected_fallback": 0,
+    "has_clarify_question": 0,
+    "currency_required": 0
+  }
+}
