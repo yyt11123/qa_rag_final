@@ -138,8 +138,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "143888889117970537-1",
@@ -188,8 +188,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "143959289252319337-1",
@@ -288,8 +288,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "143976978477781097-1",
@@ -311,8 +311,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "143979967473029225-1",
@@ -459,8 +459,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "144138612508758121-1",
@@ -534,8 +534,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "144233044058869870-1",
@@ -710,8 +710,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "144264016376664174-1",
@@ -735,8 +735,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "144264016376664174-2",
@@ -785,8 +785,8 @@
     "_turn_index": 3,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "144264016376664174-4",
@@ -810,8 +810,8 @@
     "_turn_index": 4,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "144264016376664174-5",
@@ -835,8 +835,8 @@
     "_turn_index": 5,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "144264016376664174-6",
@@ -860,8 +860,8 @@
     "_turn_index": 6,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "144264016376664174-7",
@@ -885,8 +885,8 @@
     "_turn_index": 7,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "144281056609079406-1",
@@ -958,8 +958,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "144287758167347310-1",
@@ -1535,8 +1535,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "144600512401018990-1",
@@ -2169,8 +2169,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "144737816633446537-2",
@@ -2192,8 +2192,8 @@
     "_turn_index": 2,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "144737816633446537-3",
@@ -2909,8 +2909,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "145039389641183374-1",
@@ -3187,8 +3187,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "145052017549676686-1",
@@ -3360,8 +3360,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "145120917767360654-1",
@@ -3540,8 +3540,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "145135013095051406-1",
@@ -3680,8 +3680,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "145157895086968986-1",
@@ -3705,8 +3705,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "145158098410049690-1",
@@ -3778,8 +3778,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "145164857447059613-1",
@@ -4335,8 +4335,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "145286951019253917-1",
@@ -4388,8 +4388,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "145287887221461149-1",
@@ -4491,8 +4491,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "145295942281629853-1",
@@ -4566,8 +4566,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "145308114101506205-1",
@@ -4792,8 +4792,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "145454210316538013-1",
@@ -4842,8 +4842,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "145457828021178525-1",
@@ -5089,8 +5089,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "145547681052266658-1",
@@ -5164,8 +5164,8 @@
     "_turn_index": 2,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "145558919857606818-1",
@@ -5214,8 +5214,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "145564991699849378-1",
@@ -5360,8 +5360,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "145605508575826082-1",
@@ -5609,8 +5609,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "145694283872112802-1",
@@ -5778,8 +5778,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "145700163229356194-1",
@@ -5803,8 +5803,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "145700381047951522-1",
@@ -5853,8 +5853,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "145700715300425890-1",
@@ -5928,8 +5928,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "145727702995865765-1",
@@ -6001,8 +6001,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "145736257949962405-1",
@@ -6147,8 +6147,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "145760961242894501-1",
@@ -6320,8 +6320,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "145789466353635493-1",
@@ -6345,8 +6345,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "145790015304143013-1",
@@ -6370,8 +6370,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "145790389972930725-1",
@@ -8445,8 +8445,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "145923862155006120-1",
@@ -8668,8 +8668,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "145928170007204008-1",
@@ -9017,8 +9017,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "146127167384752304-1",
@@ -9045,8 +9045,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "146127167384752304-2",
@@ -9073,8 +9073,8 @@
     "_turn_index": 2,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "146127167384752304-3",
@@ -9101,8 +9101,8 @@
     "_turn_index": 3,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "146127167384752304-4",
@@ -9129,8 +9129,8 @@
     "_turn_index": 4,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "146127167384752304-5",
@@ -9157,8 +9157,8 @@
     "_turn_index": 5,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "146127167384752304-6",
@@ -9185,8 +9185,8 @@
     "_turn_index": 6,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "146127167384752304-7",
@@ -9269,8 +9269,8 @@
     "_turn_index": 9,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "146127167384752304-10",
@@ -9297,8 +9297,8 @@
     "_turn_index": 10,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "146163668919292080-1",
@@ -9400,8 +9400,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "146164821044269232-2",
@@ -9428,8 +9428,8 @@
     "_turn_index": 2,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "146164821044269232-3",
@@ -9456,8 +9456,8 @@
     "_turn_index": 3,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "146164821044269232-4",
@@ -9484,8 +9484,8 @@
     "_turn_index": 4,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "146164821044269232-5",
@@ -9512,8 +9512,8 @@
     "_turn_index": 5,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "146164821044269232-6",
@@ -9540,8 +9540,8 @@
     "_turn_index": 6,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "146185961410171056-1",
@@ -9675,8 +9675,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "146317040204943540-1",
@@ -9723,8 +9723,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "146334293172457652-1",
@@ -9817,8 +9817,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "146416486498472116-1",
@@ -9867,8 +9867,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "146429129338687668-1",
@@ -9892,8 +9892,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "146429267046076596-1",
@@ -9919,8 +9919,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "146429267046076596-2",
@@ -9946,8 +9946,8 @@
     "_turn_index": 2,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "146429267046076596-3",
@@ -9973,8 +9973,8 @@
     "_turn_index": 3,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "146429267046076596-4",
@@ -10000,8 +10000,8 @@
     "_turn_index": 4,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "146429267046076596-5",
@@ -10027,8 +10027,8 @@
     "_turn_index": 5,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "146429562157306036-1",
@@ -10206,8 +10206,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "146615552394170548-1",
@@ -10906,8 +10906,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "146873965980192954-1",
@@ -11418,8 +11418,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "146908274833264826-2",
@@ -11443,8 +11443,8 @@
     "_turn_index": 2,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "146908274833264826-3",
@@ -11468,8 +11468,8 @@
     "_turn_index": 3,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "146991122487480506-1",
@@ -11593,8 +11593,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "147072008348274874-1",
@@ -11616,8 +11616,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "147072023229665466-1",
@@ -11781,8 +11781,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "147206407085658298-1",
@@ -13220,8 +13220,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "147870299944161479-1",
@@ -13268,8 +13268,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "147872970809839815-2",
@@ -13291,8 +13291,8 @@
     "_turn_index": 2,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "147872970809839815-3",
@@ -13314,8 +13314,8 @@
     "_turn_index": 3,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "147873045418119367-1",
@@ -13416,8 +13416,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "147935161617518797-2",
@@ -13445,8 +13445,8 @@
     "_turn_index": 2,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "147935161617518797-3",
@@ -13474,8 +13474,8 @@
     "_turn_index": 3,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "147935161617518797-4",
@@ -13503,8 +13503,8 @@
     "_turn_index": 4,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "147935161617518797-5",
@@ -13532,8 +13532,8 @@
     "_turn_index": 5,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "147935161617518797-6",
@@ -13561,8 +13561,8 @@
     "_turn_index": 6,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "147935161617518797-7",
@@ -13590,8 +13590,8 @@
     "_turn_index": 7,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "147935161617518797-8",
@@ -13619,8 +13619,8 @@
     "_turn_index": 8,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "148009337346887885-1",
@@ -13669,8 +13669,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "148011346351395021-1",
@@ -13792,8 +13792,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "148066100590973134-1",
@@ -13867,8 +13867,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "148096196953542865-1",
@@ -14101,8 +14101,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "148224560188133585-1",
@@ -14159,8 +14159,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "148292776499384529-1",
@@ -14230,8 +14230,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "148304911644266705-1",
@@ -14355,8 +14355,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "148311211170107601-2",
@@ -14402,8 +14402,8 @@
     "_turn_index": 2,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "148311211170107601-3",
@@ -14449,8 +14449,8 @@
     "_turn_index": 3,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "148311211170107601-4",
@@ -14496,8 +14496,8 @@
     "_turn_index": 4,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "148311211170107601-5",
@@ -14543,8 +14543,8 @@
     "_turn_index": 5,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "148329321872789713-1",
@@ -14618,8 +14618,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "148329949458108625-1",
@@ -14762,8 +14762,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "148345114417205457-1",
@@ -14835,8 +14835,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "148346636832116945-1",
@@ -14962,8 +14962,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "148481722227396846-1",
@@ -15113,8 +15113,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "148617649285271790-1",
@@ -15292,8 +15292,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "148742813977186542-1",
@@ -15394,8 +15394,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "148743872233640174-1",
@@ -15975,8 +15975,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "148804728698999022-2",
@@ -16006,8 +16006,8 @@
     "_turn_index": 2,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "148804728698999022-3",
@@ -16037,8 +16037,8 @@
     "_turn_index": 3,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "148804728698999022-4",
@@ -16068,8 +16068,8 @@
     "_turn_index": 4,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "148804728698999022-5",
@@ -16672,8 +16672,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "148894257661382894-2",
@@ -16718,8 +16718,8 @@
     "_turn_index": 2,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "148894257661382894-3",
@@ -16764,8 +16764,8 @@
     "_turn_index": 3,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "148894257661382894-4",
@@ -16856,8 +16856,8 @@
     "_turn_index": 5,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "148894257661382894-6",
@@ -16902,8 +16902,8 @@
     "_turn_index": 6,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "148894257661382894-7",
@@ -16948,8 +16948,8 @@
     "_turn_index": 7,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "148894257661382894-8",
@@ -16994,8 +16994,8 @@
     "_turn_index": 8,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "148894257661382894-9",
@@ -17040,8 +17040,8 @@
     "_turn_index": 9,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "148894257661382894-10",
@@ -17086,8 +17086,8 @@
     "_turn_index": 10,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "148894257661382894-11",
@@ -17132,8 +17132,8 @@
     "_turn_index": 11,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "148899639809052910-1",
@@ -17237,8 +17237,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "148941695172514030-1",
@@ -17493,8 +17493,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "149071368120471790-1",
@@ -17643,8 +17643,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "149206574630473972-1",
@@ -17774,8 +17774,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "149226467392262388-1",
@@ -17870,8 +17870,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "149241623811756276-1",
@@ -17968,8 +17968,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "149249925094346996-1",
@@ -18145,8 +18145,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "149337776905556212-1",
@@ -18428,8 +18428,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "149623295543644428-1",
@@ -18453,8 +18453,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "149623662662684940-1",
@@ -18503,8 +18503,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "149625542130307340-1",
@@ -18578,8 +18578,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "149629665567346956-1",
@@ -18779,8 +18779,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "149905248134140178-1",
@@ -18829,8 +18829,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "149916572570390802-1",
@@ -19155,8 +19155,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "150083415037743381-1",
@@ -19205,8 +19205,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "150190307747598613-1",
@@ -19307,8 +19307,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "150197505794019605-1",
@@ -19364,8 +19364,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "150197800989135125-1",
@@ -19649,8 +19649,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "150218771636719893-2",
@@ -19693,8 +19693,8 @@
     "_turn_index": 2,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "150218771636719893-3",
@@ -19737,8 +19737,8 @@
     "_turn_index": 3,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "150218771636719893-4",
@@ -19781,8 +19781,8 @@
     "_turn_index": 4,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "150218771636719893-5",
@@ -19825,8 +19825,8 @@
     "_turn_index": 5,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "150218771636719893-6",
@@ -19869,8 +19869,8 @@
     "_turn_index": 6,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "150218771636719893-7",
@@ -19913,8 +19913,8 @@
     "_turn_index": 7,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "150218771636719893-8",
@@ -19957,8 +19957,8 @@
     "_turn_index": 8,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "150218771636719893-9",
@@ -20001,8 +20001,8 @@
     "_turn_index": 9,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "150218771636719893-10",
@@ -20045,8 +20045,8 @@
     "_turn_index": 10,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "150218771636719893-11",
@@ -20089,8 +20089,8 @@
     "_turn_index": 11,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "150218771636719893-12",
@@ -20133,8 +20133,8 @@
     "_turn_index": 12,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "150226561449103637-1",
@@ -20183,8 +20183,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "150242487187837205-1",
@@ -20208,8 +20208,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "150242698832417045-1",
@@ -20985,8 +20985,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "150919545278730529-1",
@@ -21037,8 +21037,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "150921042410377505-1",
@@ -21089,8 +21089,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "150940180348440868-1",
@@ -21558,8 +21558,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "150984756102730023-1",
@@ -21660,8 +21660,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "151052164154822951-2",
@@ -21687,8 +21687,8 @@
     "_turn_index": 2,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "151070668031562023-1",
@@ -21808,8 +21808,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "151131589038870823-1",
@@ -21833,8 +21833,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "151131788100538663-1",
@@ -21858,8 +21858,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "151131890408001831-1",
@@ -21885,8 +21885,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "151131978958147879-1",
@@ -21977,8 +21977,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "151145678393872679-1",
@@ -22004,8 +22004,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "151146444055679271-1",
@@ -22077,8 +22077,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "151237284744696106-1",
@@ -22330,8 +22330,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "151274151871549738-1",
@@ -22483,8 +22483,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "151352631141372202-1",
@@ -22870,8 +22870,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "151663164423967018-1",
@@ -22956,8 +22956,8 @@
     "_turn_index": 2,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "151663164423967018-3",
@@ -22999,8 +22999,8 @@
     "_turn_index": 3,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "151663164423967018-4",
@@ -23042,8 +23042,8 @@
     "_turn_index": 4,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "151663164423967018-5",
@@ -23085,8 +23085,8 @@
     "_turn_index": 5,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "151663164423967018-6",
@@ -23128,8 +23128,8 @@
     "_turn_index": 6,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "151663164423967018-7",
@@ -23171,8 +23171,8 @@
     "_turn_index": 7,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "151663164423967018-8",
@@ -23214,8 +23214,8 @@
     "_turn_index": 8,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "151663164423967018-9",
@@ -23300,8 +23300,8 @@
     "_turn_index": 10,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "151663164423967018-11",
@@ -23343,8 +23343,8 @@
     "_turn_index": 11,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "151663164423967018-12",
@@ -23386,8 +23386,8 @@
     "_turn_index": 12,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "151663164423967018-13",
@@ -23429,8 +23429,8 @@
     "_turn_index": 13,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "151663164423967018-14",
@@ -23472,8 +23472,8 @@
     "_turn_index": 14,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "151663164423967018-15",
@@ -23515,8 +23515,8 @@
     "_turn_index": 15,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "151663164423967018-16",
@@ -23558,8 +23558,8 @@
     "_turn_index": 16,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "151663164423967018-17",
@@ -23601,8 +23601,8 @@
     "_turn_index": 17,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "151663164423967018-18",
@@ -23644,8 +23644,8 @@
     "_turn_index": 18,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "151787073072828723-1",
@@ -23719,8 +23719,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "151789756705968435-2",
@@ -23744,8 +23744,8 @@
     "_turn_index": 2,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "151794545745498419-1",
@@ -23769,8 +23769,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "151802670699548979-1",
@@ -24220,8 +24220,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "151818960889745715-1",
@@ -24245,8 +24245,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "151819907728707891-1",
@@ -24270,8 +24270,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "151820187941769523-1",
@@ -24370,8 +24370,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "151821146021466419-1",
@@ -24464,8 +24464,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "151828903302828342-1",
@@ -24865,8 +24865,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "151969445084959047-1",
@@ -24893,8 +24893,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "151969651008508231-1",
@@ -25429,8 +25429,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "152105493643432288-1",
@@ -25454,8 +25454,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "152108221316764000-1",
@@ -25520,8 +25520,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "152111150769672544-2",
@@ -25561,8 +25561,8 @@
     "_turn_index": 2,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "152111150769672544-3",
@@ -25643,8 +25643,8 @@
     "_turn_index": 4,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "152111150769672544-5",
@@ -25684,8 +25684,8 @@
     "_turn_index": 5,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "152111150769672544-6",
@@ -25725,8 +25725,8 @@
     "_turn_index": 6,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "152111150769672544-7",
@@ -25766,8 +25766,8 @@
     "_turn_index": 7,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "152115672061612400-1",
@@ -25890,8 +25890,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "152218699451896203-1",
@@ -25967,8 +25967,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "152232312820502923-1",
@@ -26206,8 +26206,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "152362095239795100-1",
@@ -26359,8 +26359,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "152554825320534536-1",
@@ -26931,8 +26931,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "153010841359258352-1",
@@ -26954,8 +26954,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "153011509830652656-1",
@@ -27062,8 +27062,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "153022726288741104-1",
@@ -27185,8 +27185,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "153124899802616560-1",
@@ -27208,8 +27208,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "153124966626267888-1",
@@ -27645,8 +27645,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "153403204573369222-1",
@@ -27847,8 +27847,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "153577226481210274-1",
@@ -27922,8 +27922,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "153820891787072418-1",
@@ -27947,8 +27947,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "153842963405902754-1",
@@ -28158,8 +28158,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "154103696811135906-1",
@@ -28239,8 +28239,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "154151618328171426-1",
@@ -28385,8 +28385,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "154992970511193050-1",
@@ -28431,8 +28431,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "154994624828576730-1",
@@ -28751,8 +28751,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "155024510150546394-1",
@@ -28872,8 +28872,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "155033769160512474-2",
@@ -28899,8 +28899,8 @@
     "_turn_index": 2,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "155033769160512474-3",
@@ -28926,8 +28926,8 @@
     "_turn_index": 3,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "155035029968294874-1",
@@ -28974,8 +28974,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "155043712378901466-1",
@@ -29690,8 +29690,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "155161492059100213-1",
@@ -30250,8 +30250,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "155175196746093649-2",
@@ -30282,8 +30282,8 @@
     "_turn_index": 2,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "155175196746093649-3",
@@ -30314,8 +30314,8 @@
     "_turn_index": 3,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "155175196746093649-4",
@@ -30346,8 +30346,8 @@
     "_turn_index": 4,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "155177524249269329-1",
@@ -30828,8 +30828,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "155318768409547857-1",
@@ -30874,8 +30874,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "155319985663677521-1",
@@ -30899,8 +30899,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "155320754227942481-1",
@@ -31121,8 +31121,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "155337466247681105-1",
@@ -31146,8 +31146,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "155339656412566609-1",
@@ -32072,8 +32072,8 @@
     "_turn_index": 2,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "155402198149272657-1",
@@ -32250,8 +32250,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "155411987554145361-2",
@@ -32278,8 +32278,8 @@
     "_turn_index": 2,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "155411987554145361-3",
@@ -32306,8 +32306,8 @@
     "_turn_index": 3,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "155411987554145361-4",
@@ -32334,8 +32334,8 @@
     "_turn_index": 4,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "155411987554145361-5",
@@ -32362,8 +32362,8 @@
     "_turn_index": 5,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "155411987554145361-6",
@@ -32390,8 +32390,8 @@
     "_turn_index": 6,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "155411987554145361-7",
@@ -32418,8 +32418,8 @@
     "_turn_index": 7,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "155411987554145361-8",
@@ -32446,8 +32446,8 @@
     "_turn_index": 8,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "155412284829635665-1",
@@ -32496,8 +32496,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "155415870221358161-1",
@@ -32571,8 +32571,8 @@
     "_turn_index": 2,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "155417227598795857-1",
@@ -32639,8 +32639,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "155417524538741841-2",
@@ -32681,8 +32681,8 @@
     "_turn_index": 2,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "155417524538741841-3",
@@ -32723,8 +32723,8 @@
     "_turn_index": 3,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "155417524538741841-4",
@@ -32765,8 +32765,8 @@
     "_turn_index": 4,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "155417524538741841-5",
@@ -32807,8 +32807,8 @@
     "_turn_index": 5,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "155417524538741841-6",
@@ -32967,8 +32967,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "155418961960277073-2",
@@ -32993,8 +32993,8 @@
     "_turn_index": 2,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "155418961960277073-3",
@@ -33019,8 +33019,8 @@
     "_turn_index": 3,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "155418961960277073-4",
@@ -33045,8 +33045,8 @@
     "_turn_index": 4,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "155420269408719953-1",
@@ -33904,8 +33904,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "155839531986228305-1",
@@ -33954,8 +33954,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "155847586341753937-1",
@@ -33981,8 +33981,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "155849916428620881-1",
@@ -34004,8 +34004,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "155867540071945297-1",
@@ -35235,8 +35235,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "156011142236378193-2",
@@ -35278,8 +35278,8 @@
     "_turn_index": 2,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "156011142236378193-3",
@@ -35321,8 +35321,8 @@
     "_turn_index": 3,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "156011743179478097-1",
@@ -35599,8 +35599,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "156025508482552913-1",
@@ -35995,8 +35995,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "156179340722213969-1",
@@ -36121,8 +36121,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "156418358638580950-1",
@@ -36254,8 +36254,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "156423721861551318-2",
@@ -36287,8 +36287,8 @@
     "_turn_index": 2,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "156423721861551318-3",
@@ -36320,8 +36320,8 @@
     "_turn_index": 3,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "156423721861551318-4",
@@ -36386,8 +36386,8 @@
     "_turn_index": 5,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "156423721861551318-6",
@@ -36419,8 +36419,8 @@
     "_turn_index": 6,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "156423721861551318-7",
@@ -36452,8 +36452,8 @@
     "_turn_index": 7,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "156423721861551318-8",
@@ -36485,8 +36485,8 @@
     "_turn_index": 8,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "156423721861551318-9",
@@ -36518,8 +36518,8 @@
     "_turn_index": 9,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "156423721861551318-10",
@@ -36551,8 +36551,8 @@
     "_turn_index": 10,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "156423721861551318-11",
@@ -36584,8 +36584,8 @@
     "_turn_index": 11,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "156423721861551318-12",
@@ -36617,8 +36617,8 @@
     "_turn_index": 12,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "156423721861551318-13",
@@ -36650,8 +36650,8 @@
     "_turn_index": 13,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "156423721861551318-14",
@@ -36683,8 +36683,8 @@
     "_turn_index": 14,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "156423721861551318-15",
@@ -36716,8 +36716,8 @@
     "_turn_index": 15,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "156423721861551318-16",
@@ -36749,8 +36749,8 @@
     "_turn_index": 16,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "156423721861551318-17",
@@ -36782,8 +36782,8 @@
     "_turn_index": 17,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "156423721861551318-18",
@@ -36815,8 +36815,8 @@
     "_turn_index": 18,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "156448194853639382-1",
@@ -37109,8 +37109,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "156732831161160941-1",
@@ -37134,8 +37134,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "156732831161160941-2",
@@ -37159,8 +37159,8 @@
     "_turn_index": 2,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "156732831161160941-3",
@@ -37184,8 +37184,8 @@
     "_turn_index": 3,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "156744333335237869-1",
@@ -37431,8 +37431,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "156865308068451599-1",
@@ -37479,8 +37479,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "156886041100326159-1",
@@ -37810,8 +37810,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "157052143994443034-1",
@@ -40143,8 +40143,8 @@
     "_turn_index": 3,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "157465599574830856-4",
@@ -40170,8 +40170,8 @@
     "_turn_index": 4,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "157465599574830856-5",
@@ -40197,8 +40197,8 @@
     "_turn_index": 5,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "157465599574830856-6",
@@ -40224,8 +40224,8 @@
     "_turn_index": 6,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "157465599574830856-7",
@@ -40251,8 +40251,8 @@
     "_turn_index": 7,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "157465599574830856-8",
@@ -40278,8 +40278,8 @@
     "_turn_index": 8,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "157465599574830856-9",
@@ -40305,8 +40305,8 @@
     "_turn_index": 9,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "157465599574830856-10",
@@ -40332,8 +40332,8 @@
     "_turn_index": 10,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "157468576389820168-1",
@@ -41622,8 +41622,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "157893338689752139-1",
@@ -42206,8 +42206,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "157927860764462155-2",
@@ -42233,8 +42233,8 @@
     "_turn_index": 2,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "157927860764462155-3",
@@ -42260,8 +42260,8 @@
     "_turn_index": 3,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "157929420944886859-1",
@@ -43007,8 +43007,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "158034793773166330-1",
@@ -43032,8 +43032,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "158035124737306362-1",
@@ -43126,8 +43126,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "158038536971382522-2",
@@ -43169,8 +43169,8 @@
     "_turn_index": 2,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "158038536971382522-3",
@@ -43212,8 +43212,8 @@
     "_turn_index": 3,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "158038536971382522-4",
@@ -43255,8 +43255,8 @@
     "_turn_index": 4,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "158038536971382522-5",
@@ -43341,8 +43341,8 @@
     "_turn_index": 6,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "158038536971382522-7",
@@ -43384,8 +43384,8 @@
     "_turn_index": 7,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "158038536971382522-8",
@@ -43427,8 +43427,8 @@
     "_turn_index": 8,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "158038536971382522-9",
@@ -43470,8 +43470,8 @@
     "_turn_index": 9,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "158038536971382522-10",
@@ -43513,8 +43513,8 @@
     "_turn_index": 10,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "158044437451140855-1",
@@ -43638,8 +43638,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "158089393343614011-2",
@@ -43667,8 +43667,8 @@
     "_turn_index": 2,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "158089393343614011-3",
@@ -43696,8 +43696,8 @@
     "_turn_index": 3,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "158089393343614011-4",
@@ -43725,8 +43725,8 @@
     "_turn_index": 4,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "158151167824677947-1",
@@ -43800,8 +43800,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "158156654074973243-1",
@@ -44822,8 +44822,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "158443752975813708-2",
@@ -44848,8 +44848,8 @@
     "_turn_index": 2,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "158443752975813708-3",
@@ -44874,8 +44874,8 @@
     "_turn_index": 3,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "158443752975813708-4",
@@ -44900,8 +44900,8 @@
     "_turn_index": 4,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "158445025376652364-1",
@@ -45530,8 +45530,8 @@
     "_turn_index": 2,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "158607346602396748-1",
@@ -45709,8 +45709,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "158642721731431500-2",
@@ -45739,8 +45739,8 @@
     "_turn_index": 2,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "158642721731431500-3",
@@ -45769,8 +45769,8 @@
     "_turn_index": 3,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "158642721731431500-4",
@@ -45799,8 +45799,8 @@
     "_turn_index": 4,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "158642721731431500-5",
@@ -45829,8 +45829,8 @@
     "_turn_index": 5,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "158642721731431500-6",
@@ -45889,8 +45889,8 @@
     "_turn_index": 7,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "158642721731431500-8",
@@ -45949,8 +45949,8 @@
     "_turn_index": 9,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "158642721731431500-10",
@@ -45979,8 +45979,8 @@
     "_turn_index": 10,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "158642721731431500-11",
@@ -46009,8 +46009,8 @@
     "_turn_index": 11,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "158643143611305036-1",
@@ -47267,8 +47267,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "158923600663989321-2",
@@ -47300,8 +47300,8 @@
     "_turn_index": 2,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "158923600663989321-3",
@@ -47333,8 +47333,8 @@
     "_turn_index": 3,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "158923600663989321-4",
@@ -47366,8 +47366,8 @@
     "_turn_index": 4,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "158923600663989321-5",
@@ -47399,8 +47399,8 @@
     "_turn_index": 5,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "158923600663989321-6",
@@ -47432,8 +47432,8 @@
     "_turn_index": 6,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "158923600663989321-7",
@@ -47465,8 +47465,8 @@
     "_turn_index": 7,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "158923600663989321-8",
@@ -47498,8 +47498,8 @@
     "_turn_index": 8,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "158923600663989321-9",
@@ -47531,8 +47531,8 @@
     "_turn_index": 9,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "158923600663989321-10",
@@ -47564,8 +47564,8 @@
     "_turn_index": 10,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "158923600663989321-11",
@@ -47597,8 +47597,8 @@
     "_turn_index": 11,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "158923600663989321-12",
@@ -47630,8 +47630,8 @@
     "_turn_index": 12,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "158923600663989321-13",
@@ -47663,8 +47663,8 @@
     "_turn_index": 13,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "158923600663989321-14",
@@ -47696,8 +47696,8 @@
     "_turn_index": 14,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "158923600663989321-15",
@@ -47729,8 +47729,8 @@
     "_turn_index": 15,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "158923600663989321-16",
@@ -47762,8 +47762,8 @@
     "_turn_index": 16,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "158923600663989321-17",
@@ -47795,8 +47795,8 @@
     "_turn_index": 17,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "158923600663989321-18",
@@ -47828,8 +47828,8 @@
     "_turn_index": 18,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "158923600663989321-19",
@@ -47861,8 +47861,8 @@
     "_turn_index": 19,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "158923600663989321-20",
@@ -47894,8 +47894,8 @@
     "_turn_index": 20,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "158923600663989321-21",
@@ -47927,8 +47927,8 @@
     "_turn_index": 21,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "158923600663989321-22",
@@ -47960,8 +47960,8 @@
     "_turn_index": 22,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "158923600663989321-23",
@@ -47993,8 +47993,8 @@
     "_turn_index": 23,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "158923600663989321-24",
@@ -48059,8 +48059,8 @@
     "_turn_index": 25,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "158923600663989321-26",
@@ -48092,8 +48092,8 @@
     "_turn_index": 26,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "158923600663989321-27",
@@ -48125,8 +48125,8 @@
     "_turn_index": 27,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "158923600663989321-28",
@@ -48158,8 +48158,8 @@
     "_turn_index": 28,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "158923600663989321-29",
@@ -48191,8 +48191,8 @@
     "_turn_index": 29,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "158923600663989321-30",
@@ -48224,8 +48224,8 @@
     "_turn_index": 30,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "158923600663989321-31",
@@ -48257,8 +48257,8 @@
     "_turn_index": 31,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "158923600663989321-32",
@@ -48290,8 +48290,8 @@
     "_turn_index": 32,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "158923600663989321-33",
@@ -48323,8 +48323,8 @@
     "_turn_index": 33,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "158923600663989321-34",
@@ -48356,8 +48356,8 @@
     "_turn_index": 34,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "158926743204318281-1",
@@ -49161,8 +49161,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "159111299861630025-2",
@@ -49187,8 +49187,8 @@
     "_turn_index": 2,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "159172331531455561-1",
@@ -50168,8 +50168,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "159522758131240006-1",
@@ -50871,8 +50871,8 @@
     "_turn_index": 3,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "159883013394558738-1",
@@ -52318,8 +52318,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "160341889529203792-1",
@@ -52863,8 +52863,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "160671607591849034-1",
@@ -52944,8 +52944,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "160928337215123193-2",
@@ -53022,8 +53022,8 @@
     "_turn_index": 4,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "160928337215123193-5",
@@ -53048,8 +53048,8 @@
     "_turn_index": 5,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "160948891099885305-1",
@@ -53389,8 +53389,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "160973460544188153-2",
@@ -53414,8 +53414,8 @@
     "_turn_index": 2,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "161049648415403769-1",
@@ -54775,8 +54775,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "161932734862759086-1",
@@ -56195,8 +56195,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "162789591877719220-1",
@@ -58121,8 +58121,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "163993183263444034-1",
@@ -58259,8 +58259,8 @@
     "_turn_index": 2,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "164113927309923516-3",
@@ -58289,8 +58289,8 @@
     "_turn_index": 3,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "164113927309923516-4",
@@ -58319,8 +58319,8 @@
     "_turn_index": 4,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "164113927309923516-5",
@@ -58349,8 +58349,8 @@
     "_turn_index": 5,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "164113927309923516-6",
@@ -58379,8 +58379,8 @@
     "_turn_index": 6,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "164113927309923516-7",
@@ -58409,8 +58409,8 @@
     "_turn_index": 7,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "164113927309923516-8",
@@ -58439,8 +58439,8 @@
     "_turn_index": 8,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "164113927309923516-9",
@@ -58499,8 +58499,8 @@
     "_turn_index": 10,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "164113927309923516-11",
@@ -58529,8 +58529,8 @@
     "_turn_index": 11,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "164113927309923516-12",
@@ -58559,8 +58559,8 @@
     "_turn_index": 12,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "164113927309923516-13",
@@ -58589,8 +58589,8 @@
     "_turn_index": 13,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "164114621953774780-1",
@@ -59456,8 +59456,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "164742715941098687-1",
@@ -59481,8 +59481,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "164742715941098687-2",
@@ -59506,8 +59506,8 @@
     "_turn_index": 2,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "165004278560223014-1",
@@ -59755,8 +59755,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "165292365823644841-2",
@@ -59781,8 +59781,8 @@
     "_turn_index": 2,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "165297300338414761-1",
@@ -60747,8 +60747,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "165446474350513216-1",
@@ -61882,8 +61882,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "166045392490753829-1",
@@ -62053,8 +62053,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "166206246817394478-2",
@@ -62078,8 +62078,8 @@
     "_turn_index": 2,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "166206246817394478-3",
@@ -62103,8 +62103,8 @@
     "_turn_index": 3,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "166206246817394478-4",
@@ -62128,8 +62128,8 @@
     "_turn_index": 4,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "166206246817394478-5",
@@ -62153,8 +62153,8 @@
     "_turn_index": 5,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "166206246817394478-6",
@@ -62178,8 +62178,8 @@
     "_turn_index": 6,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "166300090711961376-1",
@@ -62297,8 +62297,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "166305687725436704-2",
@@ -62320,8 +62320,8 @@
     "_turn_index": 2,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "166305687725436704-3",
@@ -62343,8 +62343,8 @@
     "_turn_index": 3,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "166305687725436704-4",
@@ -62366,8 +62366,8 @@
     "_turn_index": 4,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "166306845168791328-1",
@@ -63192,8 +63192,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "167009503412252446-1",
@@ -63391,8 +63391,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "167153031085846302-1",
@@ -63881,8 +63881,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "167465210414657330-1",
@@ -64205,8 +64205,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "167582423175950130-2",
@@ -64230,8 +64230,8 @@
     "_turn_index": 2,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "167582423175950130-3",
@@ -64255,8 +64255,8 @@
     "_turn_index": 3,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "167582423175950130-4",
@@ -64280,8 +64280,8 @@
     "_turn_index": 4,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "167582423175950130-5",
@@ -64305,8 +64305,8 @@
     "_turn_index": 5,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "167582423175950130-6",
@@ -64330,8 +64330,8 @@
     "_turn_index": 6,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "167582423175950130-7",
@@ -64355,8 +64355,8 @@
     "_turn_index": 7,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "167587975780134706-1",
@@ -64703,8 +64703,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "167758232863928114-1",
@@ -64834,8 +64834,8 @@
     "_turn_index": 1,
     "sample_type": "normal_answer",
     "is_evaluable": true,
-    "classification_reason": "assistant有具体回答",
-    "classification_confidence": "high"
+    "classification_reason": "assistant有引用但含拒答话术,待P4核实",
+    "classification_confidence": "medium"
   },
   {
     "unit_id": "167864735268630322-1",

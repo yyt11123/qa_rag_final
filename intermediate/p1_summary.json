@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T19:13:25.505339",
+  "generated_at": "2026-06-23T14:47:14.226406",
   "stats": {
     "total": 2495,
     "sample_type_counts": {
@@ -10,8 +10,8 @@
       "system_error": 50
     },
     "confidence_counts": {
-      "high": 2414,
-      "medium": 81
+      "high": 1995,
+      "medium": 500
     },
     "suspected_refusal_count": 81
   }

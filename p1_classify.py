@@ -289,12 +289,21 @@ def classify_unit(
             "classification_confidence": "medium",
         }
 
+    # 有引用但AI说了拒答话术 → 置信度降级,提醒P4重点核实
+    confidence = "high"
+    refusal_keywords = ["抱歉", "无法找到", "无法提供", "暂时没有", "未能找到", "暂未找到"]
+    has_refusal_language = any(kw in all_assistant_text for kw in refusal_keywords)
+    has_docs = has_references or has_relevant_docs
+    if has_refusal_language and has_docs:
+        confidence = "medium"
+
     return {
         **unit,
         "sample_type": "normal_answer",
         "is_evaluable": True,
-        "classification_reason": "assistant有具体回答",
-        "classification_confidence": "high",
+        "classification_reason": "assistant有具体回答" if confidence == "high"
+            else f"assistant有引用但含拒答话术,待P4核实",
+        "classification_confidence": confidence,
     }
 
 
